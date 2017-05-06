@@ -1,8 +1,9 @@
 using DataFrames
 
 function load_voting_data(filename::AbstractString, source::Symbol=:eurovisiontv)
+	thisdir, thisfile = splitdir(@__FILE__)
 	if source == :eurovisiontv
-		readtable(joinpath("..", "voting_data", "eurovision_tv", filename))
+		readtable(joinpath(thisdir, "eurovision_tv", filename))
 	else
 		error("Unknown source: $source")
 	end
@@ -26,11 +27,12 @@ function aggregate_televote_by_entrant(votingdf::DataFrame, source::Symbol=:euro
 	end	
 end
 
+# returns aggregate vote with columns :entrant and :televote
 function aggregate_televote_by_entrant(year::Int, source::Symbol=:eurovisiontv)
 	votingdf = load_voting_data(year, source)
 	if source == :eurovisiontv
 		adf = by(votingdf, :To_country, df -> sum(df[:Televote_Points]))
-		names!(adf, [:entrant, :televote])
+		names!(adf, [:country, :televote])
 	else
 		error("Unknown source: $source")
 	end	
