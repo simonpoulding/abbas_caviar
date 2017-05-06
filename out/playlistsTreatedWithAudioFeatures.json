@@ -1,0 +1,3722 @@
+{
+	"2014": {
+		"tracks": [
+			{
+				"name": "One Night's Anger - Eurovision 2014 - Albania",
+				"artists": [
+					{
+						"name": "Hersi",
+						"id": "75kTBK8zkHSmjstp6GqwNG"
+					}
+				],
+				"id": "1e7hVISj3bDzGrknIRJCA0",
+				"audio-features": {
+					"danceability": 0.537,
+					"energy": 0.583,
+					"key": 8,
+					"loudness": -5.599,
+					"mode": 1,
+					"speechiness": 0.0331,
+					"acousticness": 0.265,
+					"instrumentalness": 0,
+					"liveness": 0.0706,
+					"valence": 0.539,
+					"tempo": 151.952,
+					"type": "audio_features",
+					"id": "1e7hVISj3bDzGrknIRJCA0",
+					"uri": "spotify:track:1e7hVISj3bDzGrknIRJCA0",
+					"track_href": "https://api.spotify.com/v1/tracks/1e7hVISj3bDzGrknIRJCA0",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1e7hVISj3bDzGrknIRJCA0",
+					"duration_ms": 184613,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "Not Alone - Eurovision 2014 - Armenia",
+				"artists": [
+					{
+						"name": "Aram MP3",
+						"id": "5yCxNgRvygbliphSfbVX8g"
+					}
+				],
+				"id": "2kli84TSRXN5XoGsY75Nan",
+				"audio-features": {
+					"danceability": 0.395,
+					"energy": 0.618,
+					"key": 0,
+					"loudness": -7.117,
+					"mode": 0,
+					"speechiness": 0.0377,
+					"acousticness": 0.0247,
+					"instrumentalness": 0.000632,
+					"liveness": 0.116,
+					"valence": 0.0639,
+					"tempo": 140.065,
+					"type": "audio_features",
+					"id": "2kli84TSRXN5XoGsY75Nan",
+					"uri": "spotify:track:2kli84TSRXN5XoGsY75Nan",
+					"track_href": "https://api.spotify.com/v1/tracks/2kli84TSRXN5XoGsY75Nan",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2kli84TSRXN5XoGsY75Nan",
+					"duration_ms": 183213,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Rise Like A Phoenix - Eurovision 2014 - Austria",
+				"artists": [
+					{
+						"name": "Conchita Wurst",
+						"id": "1TGdxJ3UvFq055SVjwx49v"
+					}
+				],
+				"id": "2KqrsypJqXIKDentWkQu0J",
+				"audio-features": {
+					"danceability": 0.246,
+					"energy": 0.526,
+					"key": 2,
+					"loudness": -6.363,
+					"mode": 0,
+					"speechiness": 0.0322,
+					"acousticness": 0.1,
+					"instrumentalness": 0,
+					"liveness": 0.119,
+					"valence": 0.198,
+					"tempo": 80.986,
+					"type": "audio_features",
+					"id": "2KqrsypJqXIKDentWkQu0J",
+					"uri": "spotify:track:2KqrsypJqXIKDentWkQu0J",
+					"track_href": "https://api.spotify.com/v1/tracks/2KqrsypJqXIKDentWkQu0J",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2KqrsypJqXIKDentWkQu0J",
+					"duration_ms": 182933,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Start A Fire - Eurovision 2014 - Azerbaijan",
+				"artists": [
+					{
+						"name": "Dilara Kazimova",
+						"id": "6u8SBmOlxYUj3S7ZS1T6tr"
+					}
+				],
+				"id": "0VbkuPm16enpcwPw5uALYq",
+				"audio-features": {
+					"danceability": 0.323,
+					"energy": 0.312,
+					"key": 11,
+					"loudness": -7.351,
+					"mode": 0,
+					"speechiness": 0.0326,
+					"acousticness": 0.843,
+					"instrumentalness": 0,
+					"liveness": 0.101,
+					"valence": 0.288,
+					"tempo": 74.745,
+					"type": "audio_features",
+					"id": "0VbkuPm16enpcwPw5uALYq",
+					"uri": "spotify:track:0VbkuPm16enpcwPw5uALYq",
+					"track_href": "https://api.spotify.com/v1/tracks/0VbkuPm16enpcwPw5uALYq",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0VbkuPm16enpcwPw5uALYq",
+					"duration_ms": 181947,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "Mother - Eurovision 2014 - Belgium",
+				"artists": [
+					{
+						"name": "Axel Hirsoux",
+						"id": "4QYWaWtcnYQ7Vro0KjPIma"
+					}
+				],
+				"id": "63tq1qB7VRfA2wBNuB1Xtl",
+				"audio-features": {
+					"danceability": 0.502,
+					"energy": 0.337,
+					"key": 4,
+					"loudness": -8.104,
+					"mode": 0,
+					"speechiness": 0.0295,
+					"acousticness": 0.867,
+					"instrumentalness": 0,
+					"liveness": 0.0888,
+					"valence": 0.245,
+					"tempo": 72.862,
+					"type": "audio_features",
+					"id": "63tq1qB7VRfA2wBNuB1Xtl",
+					"uri": "spotify:track:63tq1qB7VRfA2wBNuB1Xtl",
+					"track_href": "https://api.spotify.com/v1/tracks/63tq1qB7VRfA2wBNuB1Xtl",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/63tq1qB7VRfA2wBNuB1Xtl",
+					"duration_ms": 182360,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Cheesecake - Eurovision 2014 - Belarus",
+				"artists": [
+					{
+						"name": "Teo",
+						"id": "5XxUUfzj2KVVXf7bvUJebj"
+					}
+				],
+				"id": "5pALUcsHsRsFl55w2Cnumt",
+				"audio-features": {
+					"danceability": 0.808,
+					"energy": 0.813,
+					"key": 1,
+					"loudness": -4.063,
+					"mode": 0,
+					"speechiness": 0.063,
+					"acousticness": 0.16,
+					"instrumentalness": 0,
+					"liveness": 0.0294,
+					"valence": 0.884,
+					"tempo": 95.008,
+					"type": "audio_features",
+					"id": "5pALUcsHsRsFl55w2Cnumt",
+					"uri": "spotify:track:5pALUcsHsRsFl55w2Cnumt",
+					"track_href": "https://api.spotify.com/v1/tracks/5pALUcsHsRsFl55w2Cnumt",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5pALUcsHsRsFl55w2Cnumt",
+					"duration_ms": 179467,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Hunter Of Stars - Eurovision 2014 - Switzerland",
+				"artists": [
+					{
+						"name": "Sebalter",
+						"id": "4w1ouv87vtVO7oFyxKnjac"
+					}
+				],
+				"id": "68lO4YsBnxihBFiA0WARHJ",
+				"audio-features": {
+					"danceability": 0.565,
+					"energy": 0.882,
+					"key": 4,
+					"loudness": -4.48,
+					"mode": 0,
+					"speechiness": 0.0695,
+					"acousticness": 0.14,
+					"instrumentalness": 0.00000985,
+					"liveness": 0.101,
+					"valence": 0.916,
+					"tempo": 176.956,
+					"type": "audio_features",
+					"id": "68lO4YsBnxihBFiA0WARHJ",
+					"uri": "spotify:track:68lO4YsBnxihBFiA0WARHJ",
+					"track_href": "https://api.spotify.com/v1/tracks/68lO4YsBnxihBFiA0WARHJ",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/68lO4YsBnxihBFiA0WARHJ",
+					"duration_ms": 185520,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Is It Right - Eurovision 2014 - Germany",
+				"artists": [
+					{
+						"name": "Elaiza",
+						"id": "3p45HHDBKyxCDJeOnOWuSo"
+					}
+				],
+				"id": "18kAqShskuAKN0fFo18DyH",
+				"audio-features": {
+					"danceability": 0.759,
+					"energy": 0.693,
+					"key": 7,
+					"loudness": -6.13,
+					"mode": 0,
+					"speechiness": 0.0886,
+					"acousticness": 0.252,
+					"instrumentalness": 0,
+					"liveness": 0.372,
+					"valence": 0.824,
+					"tempo": 132.089,
+					"type": "audio_features",
+					"id": "18kAqShskuAKN0fFo18DyH",
+					"uri": "spotify:track:18kAqShskuAKN0fFo18DyH",
+					"track_href": "https://api.spotify.com/v1/tracks/18kAqShskuAKN0fFo18DyH",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/18kAqShskuAKN0fFo18DyH",
+					"duration_ms": 181600,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Cliché Love Song - Eurovision 2014 - Denmark",
+				"artists": [
+					{
+						"name": "Basim",
+						"id": "0AQTNnuQ6OZRjzy5MWuqfg"
+					}
+				],
+				"id": "0h0hZdvLGdQwpR8FUQMVue",
+				"audio-features": {
+					"danceability": 0.787,
+					"energy": 0.852,
+					"key": 8,
+					"loudness": -3.737,
+					"mode": 1,
+					"speechiness": 0.0592,
+					"acousticness": 0.0561,
+					"instrumentalness": 0,
+					"liveness": 0.0418,
+					"valence": 0.681,
+					"tempo": 111.983,
+					"type": "audio_features",
+					"id": "0h0hZdvLGdQwpR8FUQMVue",
+					"uri": "spotify:track:0h0hZdvLGdQwpR8FUQMVue",
+					"track_href": "https://api.spotify.com/v1/tracks/0h0hZdvLGdQwpR8FUQMVue",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0h0hZdvLGdQwpR8FUQMVue",
+					"duration_ms": 183827,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Amazing - Eurovision 2014 - Estonia",
+				"artists": [
+					{
+						"name": "Tanja",
+						"id": "4Vj81qxQKQzzXOTgDXznYT"
+					}
+				],
+				"id": "7nHZygGL08cyziMy3i6wqd",
+				"audio-features": {
+					"danceability": 0.536,
+					"energy": 0.852,
+					"key": 5,
+					"loudness": -5.414,
+					"mode": 0,
+					"speechiness": 0.0524,
+					"acousticness": 0.0288,
+					"instrumentalness": 0,
+					"liveness": 0.131,
+					"valence": 0.387,
+					"tempo": 128.033,
+					"type": "audio_features",
+					"id": "7nHZygGL08cyziMy3i6wqd",
+					"uri": "spotify:track:7nHZygGL08cyziMy3i6wqd",
+					"track_href": "https://api.spotify.com/v1/tracks/7nHZygGL08cyziMy3i6wqd",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7nHZygGL08cyziMy3i6wqd",
+					"duration_ms": 184293,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Dancing In The Rain - Eurovision 2014 - Spain",
+				"artists": [
+					{
+						"name": "Ruth Lorenzo",
+						"id": "24EtVHju2o9Zm5P39iKosx"
+					}
+				],
+				"id": "0q3qA8OGpzu6RluxLGA71x",
+				"audio-features": {
+					"danceability": 0.605,
+					"energy": 0.66,
+					"key": 0,
+					"loudness": -6.85,
+					"mode": 1,
+					"speechiness": 0.0372,
+					"acousticness": 0.675,
+					"instrumentalness": 0.0000319,
+					"liveness": 0.113,
+					"valence": 0.434,
+					"tempo": 129.938,
+					"type": "audio_features",
+					"id": "0q3qA8OGpzu6RluxLGA71x",
+					"uri": "spotify:track:0q3qA8OGpzu6RluxLGA71x",
+					"track_href": "https://api.spotify.com/v1/tracks/0q3qA8OGpzu6RluxLGA71x",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0q3qA8OGpzu6RluxLGA71x",
+					"duration_ms": 174187,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Something Better - Eurovision 2014 - Finland",
+				"artists": [
+					{
+						"name": "Softengine",
+						"id": "0jtDQsmLkW8DAXlGPYptIe"
+					}
+				],
+				"id": "6XFyhqbEGeoO1xswBCnKKF",
+				"audio-features": {
+					"danceability": 0.556,
+					"energy": 0.867,
+					"key": 0,
+					"loudness": -6.326,
+					"mode": 1,
+					"speechiness": 0.0476,
+					"acousticness": 0.00056,
+					"instrumentalness": 0,
+					"liveness": 0.113,
+					"valence": 0.394,
+					"tempo": 146.048,
+					"type": "audio_features",
+					"id": "6XFyhqbEGeoO1xswBCnKKF",
+					"uri": "spotify:track:6XFyhqbEGeoO1xswBCnKKF",
+					"track_href": "https://api.spotify.com/v1/tracks/6XFyhqbEGeoO1xswBCnKKF",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6XFyhqbEGeoO1xswBCnKKF",
+					"duration_ms": 182507,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Moustache - Eurovision 2014 - France",
+				"artists": [
+					{
+						"name": "Twin Twin",
+						"id": "2hJPfJfj1VpL2AJvelxxzx"
+					}
+				],
+				"id": "5XikhFoJEvwYWEcZbeYEeQ",
+				"audio-features": {
+					"danceability": 0.685,
+					"energy": 0.846,
+					"key": 3,
+					"loudness": -8.026,
+					"mode": 0,
+					"speechiness": 0.0419,
+					"acousticness": 0.00978,
+					"instrumentalness": 0.0000108,
+					"liveness": 0.0996,
+					"valence": 0.848,
+					"tempo": 127.987,
+					"type": "audio_features",
+					"id": "5XikhFoJEvwYWEcZbeYEeQ",
+					"uri": "spotify:track:5XikhFoJEvwYWEcZbeYEeQ",
+					"track_href": "https://api.spotify.com/v1/tracks/5XikhFoJEvwYWEcZbeYEeQ",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5XikhFoJEvwYWEcZbeYEeQ",
+					"duration_ms": 171227,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Children Of The Universe - Eurovision 2014 - United Kingdom",
+				"artists": [
+					{
+						"name": "Molly",
+						"id": "1mRst3vZjsHcDdoF9t5C51"
+					}
+				],
+				"id": "7KxQjUoKu9chCcN6cpHLrm",
+				"audio-features": {
+					"danceability": 0.558,
+					"energy": 0.739,
+					"key": 6,
+					"loudness": -3.81,
+					"mode": 1,
+					"speechiness": 0.0504,
+					"acousticness": 0.165,
+					"instrumentalness": 0.000171,
+					"liveness": 0.292,
+					"valence": 0.437,
+					"tempo": 140.07,
+					"type": "audio_features",
+					"id": "7KxQjUoKu9chCcN6cpHLrm",
+					"uri": "spotify:track:7KxQjUoKu9chCcN6cpHLrm",
+					"track_href": "https://api.spotify.com/v1/tracks/7KxQjUoKu9chCcN6cpHLrm",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7KxQjUoKu9chCcN6cpHLrm",
+					"duration_ms": 182947,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Three Minutes To Earth - Eurovision 2014 - Georgia",
+				"artists": [
+					{
+						"name": "The Shin and Mariko",
+						"id": "4lnfJneG3bY7at19v7UKXp"
+					}
+				],
+				"id": "1eVJ6Mke1dKBGxFXELqM6Y",
+				"audio-features": {
+					"danceability": 0.563,
+					"energy": 0.731,
+					"key": 9,
+					"loudness": -6.438,
+					"mode": 1,
+					"speechiness": 0.0512,
+					"acousticness": 0.194,
+					"instrumentalness": 0,
+					"liveness": 0.379,
+					"valence": 0.567,
+					"tempo": 76.088,
+					"type": "audio_features",
+					"id": "1eVJ6Mke1dKBGxFXELqM6Y",
+					"uri": "spotify:track:1eVJ6Mke1dKBGxFXELqM6Y",
+					"track_href": "https://api.spotify.com/v1/tracks/1eVJ6Mke1dKBGxFXELqM6Y",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1eVJ6Mke1dKBGxFXELqM6Y",
+					"duration_ms": 180427,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Rise Up - Eurovision 2014 - Greece",
+				"artists": [
+					{
+						"name": "Freaky Fortune",
+						"id": "5cRocmkAjNUol2bK9v2Ce0"
+					},
+					{
+						"name": "Riskykidd",
+						"id": "3lDfsS6EuLofMXRdKpypb2"
+					}
+				],
+				"id": "2oFmGjyOGefQ6Af2ysnDfQ",
+				"audio-features": {
+					"danceability": 0.672,
+					"energy": 0.813,
+					"key": 0,
+					"loudness": -5.612,
+					"mode": 0,
+					"speechiness": 0.0587,
+					"acousticness": 0.0372,
+					"instrumentalness": 0,
+					"liveness": 0.319,
+					"valence": 0.608,
+					"tempo": 127.972,
+					"type": "audio_features",
+					"id": "2oFmGjyOGefQ6Af2ysnDfQ",
+					"uri": "spotify:track:2oFmGjyOGefQ6Af2ysnDfQ",
+					"track_href": "https://api.spotify.com/v1/tracks/2oFmGjyOGefQ6Af2ysnDfQ",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2oFmGjyOGefQ6Af2ysnDfQ",
+					"duration_ms": 184133,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Running - Eurovision 2014 - Hungary",
+				"artists": [
+					{
+						"name": "Andras Kallay Saunders",
+						"id": "4o8DFDzWzn8bYgK3EXQS33"
+					}
+				],
+				"id": "5BRhhQJkfmW0rhXa3zWWIN",
+				"audio-features": {
+					"danceability": 0.589,
+					"energy": 0.63,
+					"key": 10,
+					"loudness": -6.546,
+					"mode": 0,
+					"speechiness": 0.0312,
+					"acousticness": 0.0923,
+					"instrumentalness": 0,
+					"liveness": 0.0867,
+					"valence": 0.387,
+					"tempo": 90.066,
+					"type": "audio_features",
+					"id": "5BRhhQJkfmW0rhXa3zWWIN",
+					"uri": "spotify:track:5BRhhQJkfmW0rhXa3zWWIN",
+					"track_href": "https://api.spotify.com/v1/tracks/5BRhhQJkfmW0rhXa3zWWIN",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5BRhhQJkfmW0rhXa3zWWIN",
+					"duration_ms": 182627,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Heartbeat - Eurovision 2014 - Ireland",
+				"artists": [
+					{
+						"name": "Can-Linn",
+						"id": "7swKWIpqG5LToI3cBpIvmb"
+					},
+					{
+						"name": "Kasey Smith",
+						"id": "29gMBThdFI0AxNAhO4NxMx"
+					}
+				],
+				"id": "2v97ToeLY1nEiMJLnAM4MV",
+				"audio-features": {
+					"danceability": 0.685,
+					"energy": 0.836,
+					"key": 0,
+					"loudness": -3.55,
+					"mode": 1,
+					"speechiness": 0.0324,
+					"acousticness": 0.279,
+					"instrumentalness": 0,
+					"liveness": 0.0884,
+					"valence": 0.753,
+					"tempo": 119.994,
+					"type": "audio_features",
+					"id": "2v97ToeLY1nEiMJLnAM4MV",
+					"uri": "spotify:track:2v97ToeLY1nEiMJLnAM4MV",
+					"track_href": "https://api.spotify.com/v1/tracks/2v97ToeLY1nEiMJLnAM4MV",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2v97ToeLY1nEiMJLnAM4MV",
+					"duration_ms": 185320,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Same Heart - Eurovision 2014 - Israel",
+				"artists": [
+					{
+						"name": "Mei Finegold",
+						"id": "7Ad0MzzSPn1lgEg0suoE7b"
+					}
+				],
+				"id": "379KepiioggdYFJJFriwVp",
+				"audio-features": {
+					"danceability": 0.632,
+					"energy": 0.88,
+					"key": 11,
+					"loudness": -5.341,
+					"mode": 0,
+					"speechiness": 0.0461,
+					"acousticness": 0.089,
+					"instrumentalness": 0,
+					"liveness": 0.13,
+					"valence": 0.482,
+					"tempo": 124.037,
+					"type": "audio_features",
+					"id": "379KepiioggdYFJJFriwVp",
+					"uri": "spotify:track:379KepiioggdYFJJFriwVp",
+					"track_href": "https://api.spotify.com/v1/tracks/379KepiioggdYFJJFriwVp",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/379KepiioggdYFJJFriwVp",
+					"duration_ms": 179120,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "No Prejudice - Eurovision 2014 - Iceland",
+				"artists": [
+					{
+						"name": "Pollapönk",
+						"id": "2b78ylfm29R5xM8IAMGVRR"
+					}
+				],
+				"id": "0i4O8Zr6gOS0f6AYRCeOLx",
+				"audio-features": {
+					"danceability": 0.698,
+					"energy": 0.93,
+					"key": 7,
+					"loudness": -4.348,
+					"mode": 1,
+					"speechiness": 0.0891,
+					"acousticness": 0.102,
+					"instrumentalness": 0,
+					"liveness": 0.255,
+					"valence": 0.762,
+					"tempo": 108.095,
+					"type": "audio_features",
+					"id": "0i4O8Zr6gOS0f6AYRCeOLx",
+					"uri": "spotify:track:0i4O8Zr6gOS0f6AYRCeOLx",
+					"track_href": "https://api.spotify.com/v1/tracks/0i4O8Zr6gOS0f6AYRCeOLx",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0i4O8Zr6gOS0f6AYRCeOLx",
+					"duration_ms": 165347,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "La Mia Città - Eurovision 2014 - Italy",
+				"artists": [
+					{
+						"name": "Emma",
+						"id": "0gzwXezN4IUHAwLufA6YcX"
+					}
+				],
+				"id": "350dvo9iFYC94Xt81ArQvY",
+				"audio-features": {
+					"danceability": 0.597,
+					"energy": 0.921,
+					"key": 9,
+					"loudness": -4.03,
+					"mode": 0,
+					"speechiness": 0.0338,
+					"acousticness": 0.104,
+					"instrumentalness": 0,
+					"liveness": 0.139,
+					"valence": 0.845,
+					"tempo": 135.985,
+					"type": "audio_features",
+					"id": "350dvo9iFYC94Xt81ArQvY",
+					"uri": "spotify:track:350dvo9iFYC94Xt81ArQvY",
+					"track_href": "https://api.spotify.com/v1/tracks/350dvo9iFYC94Xt81ArQvY",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/350dvo9iFYC94Xt81ArQvY",
+					"duration_ms": 184720,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Attention - Eurovision 2014 - Lithuania",
+				"artists": [
+					{
+						"name": "Vilija Matačiūnaitė",
+						"id": "3OynFHk3Rd2sl987NCv76W"
+					}
+				],
+				"id": "1WhizSxniuzqVvrHt909sY",
+				"audio-features": {
+					"danceability": 0.548,
+					"energy": 0.954,
+					"key": 1,
+					"loudness": -4.743,
+					"mode": 0,
+					"speechiness": 0.0756,
+					"acousticness": 0.0979,
+					"instrumentalness": 0,
+					"liveness": 0.186,
+					"valence": 0.146,
+					"tempo": 74.971,
+					"type": "audio_features",
+					"id": "1WhizSxniuzqVvrHt909sY",
+					"uri": "spotify:track:1WhizSxniuzqVvrHt909sY",
+					"track_href": "https://api.spotify.com/v1/tracks/1WhizSxniuzqVvrHt909sY",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1WhizSxniuzqVvrHt909sY",
+					"duration_ms": 173453,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Cake To Bake - Eurovision 2014 - Latvia",
+				"artists": [
+					{
+						"name": "Aarzemnieki",
+						"id": "62emvbuTFQdMRR5sVbVScY"
+					}
+				],
+				"id": "5Qd68IgarqOFsNiLoKudmu",
+				"audio-features": {
+					"danceability": 0.711,
+					"energy": 0.625,
+					"key": 6,
+					"loudness": -8.612,
+					"mode": 1,
+					"speechiness": 0.0482,
+					"acousticness": 0.437,
+					"instrumentalness": 0.0000121,
+					"liveness": 0.121,
+					"valence": 0.796,
+					"tempo": 98.518,
+					"type": "audio_features",
+					"id": "5Qd68IgarqOFsNiLoKudmu",
+					"uri": "spotify:track:5Qd68IgarqOFsNiLoKudmu",
+					"track_href": "https://api.spotify.com/v1/tracks/5Qd68IgarqOFsNiLoKudmu",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5Qd68IgarqOFsNiLoKudmu",
+					"duration_ms": 181387,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Wild Soul - Eurovision 2014 - Moldova",
+				"artists": [
+					{
+						"name": "Cristina Scarlat",
+						"id": "0WQXmVY2xsaVaEEyZDEUhe"
+					}
+				],
+				"id": "5jGzOHFqzgyhxdFWZRxRaR",
+				"audio-features": {
+					"danceability": 0.59,
+					"energy": 0.735,
+					"key": 2,
+					"loudness": -4.508,
+					"mode": 0,
+					"speechiness": 0.0444,
+					"acousticness": 0.0901,
+					"instrumentalness": 0,
+					"liveness": 0.241,
+					"valence": 0.125,
+					"tempo": 139.995,
+					"type": "audio_features",
+					"id": "5jGzOHFqzgyhxdFWZRxRaR",
+					"uri": "spotify:track:5jGzOHFqzgyhxdFWZRxRaR",
+					"track_href": "https://api.spotify.com/v1/tracks/5jGzOHFqzgyhxdFWZRxRaR",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5jGzOHFqzgyhxdFWZRxRaR",
+					"duration_ms": 182000,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Moj Svijet - Eurovision 2014 - Montenegro",
+				"artists": [
+					{
+						"name": "Sergej Cetkovic",
+						"id": "1OU7TEO04rt1egxjVpawoX"
+					}
+				],
+				"id": "2F3XmCWLT2MGL0IVUfO5CP",
+				"audio-features": {
+					"danceability": 0.17,
+					"energy": 0.598,
+					"key": 0,
+					"loudness": -5.577,
+					"mode": 0,
+					"speechiness": 0.0429,
+					"acousticness": 0.184,
+					"instrumentalness": 0,
+					"liveness": 0.0859,
+					"valence": 0.22,
+					"tempo": 47.054,
+					"type": "audio_features",
+					"id": "2F3XmCWLT2MGL0IVUfO5CP",
+					"uri": "spotify:track:2F3XmCWLT2MGL0IVUfO5CP",
+					"track_href": "https://api.spotify.com/v1/tracks/2F3XmCWLT2MGL0IVUfO5CP",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2F3XmCWLT2MGL0IVUfO5CP",
+					"duration_ms": 185240,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "To The Sky - Eurovision 2014 - F.Y.R. Macedonia",
+				"artists": [
+					{
+						"name": "Tijana",
+						"id": "5wQdX7W9mM3u7VYDjvUsTB"
+					}
+				],
+				"id": "3vp4Ai05zle4jOd73MxVj7",
+				"audio-features": {
+					"danceability": 0.574,
+					"energy": 0.865,
+					"key": 1,
+					"loudness": -3.949,
+					"mode": 0,
+					"speechiness": 0.0474,
+					"acousticness": 0.00127,
+					"instrumentalness": 0,
+					"liveness": 0.0794,
+					"valence": 0.72,
+					"tempo": 127.977,
+					"type": "audio_features",
+					"id": "3vp4Ai05zle4jOd73MxVj7",
+					"uri": "spotify:track:3vp4Ai05zle4jOd73MxVj7",
+					"track_href": "https://api.spotify.com/v1/tracks/3vp4Ai05zle4jOd73MxVj7",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3vp4Ai05zle4jOd73MxVj7",
+					"duration_ms": 193640,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Coming Home - Eurovision 2014 - Malta",
+				"artists": [
+					{
+						"name": "FireLight",
+						"id": "18NXKDwVykhfKMJGw7x8Pu"
+					}
+				],
+				"id": "6SD2vb3rBiRb3sSYNLHqWk",
+				"audio-features": {
+					"danceability": 0.496,
+					"energy": 0.816,
+					"key": 1,
+					"loudness": -3.563,
+					"mode": 1,
+					"speechiness": 0.0409,
+					"acousticness": 0.027,
+					"instrumentalness": 0.00000499,
+					"liveness": 0.035,
+					"valence": 0.257,
+					"tempo": 128.101,
+					"type": "audio_features",
+					"id": "6SD2vb3rBiRb3sSYNLHqWk",
+					"uri": "spotify:track:6SD2vb3rBiRb3sSYNLHqWk",
+					"track_href": "https://api.spotify.com/v1/tracks/6SD2vb3rBiRb3sSYNLHqWk",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6SD2vb3rBiRb3sSYNLHqWk",
+					"duration_ms": 179387,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Calm After The Storm - Eurovision 2014 - The Netherlands",
+				"artists": [
+					{
+						"name": "The Common Linnets",
+						"id": "18h3nc5ixeV80KKGWDAaMG"
+					}
+				],
+				"id": "6IXHfHv83TGf2J7X0k111B",
+				"audio-features": {
+					"danceability": 0.702,
+					"energy": 0.354,
+					"key": 6,
+					"loudness": -11.425,
+					"mode": 1,
+					"speechiness": 0.0328,
+					"acousticness": 0.577,
+					"instrumentalness": 0.274,
+					"liveness": 0.11,
+					"valence": 0.416,
+					"tempo": 116.029,
+					"type": "audio_features",
+					"id": "6IXHfHv83TGf2J7X0k111B",
+					"uri": "spotify:track:6IXHfHv83TGf2J7X0k111B",
+					"track_href": "https://api.spotify.com/v1/tracks/6IXHfHv83TGf2J7X0k111B",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6IXHfHv83TGf2J7X0k111B",
+					"duration_ms": 186827,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Silent Storm - Eurovision 2014 - Norway",
+				"artists": [
+					{
+						"name": "Carl Espen",
+						"id": "33GCaxGFy6PTEMZLMcXaIF"
+					}
+				],
+				"id": "5CO3m9j0nBEok1XrdSYUR3",
+				"audio-features": {
+					"danceability": 0.303,
+					"energy": 0.214,
+					"key": 9,
+					"loudness": -9.893,
+					"mode": 1,
+					"speechiness": 0.0413,
+					"acousticness": 0.86,
+					"instrumentalness": 0.0000239,
+					"liveness": 0.103,
+					"valence": 0.22,
+					"tempo": 73.678,
+					"type": "audio_features",
+					"id": "5CO3m9j0nBEok1XrdSYUR3",
+					"uri": "spotify:track:5CO3m9j0nBEok1XrdSYUR3",
+					"track_href": "https://api.spotify.com/v1/tracks/5CO3m9j0nBEok1XrdSYUR3",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5CO3m9j0nBEok1XrdSYUR3",
+					"duration_ms": 177947,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "My Slowianie - We Are Slavic - Eurovision 2014 - Poland",
+				"artists": [
+					{
+						"name": "Donatan - Cleo",
+						"id": "1oHRMJ8fRBmYIrWSK8Ajyp"
+					}
+				],
+				"id": "6N4wJ4PQ6wuMQ0o6BB7Goh",
+				"audio-features": {
+					"danceability": 0.692,
+					"energy": 0.829,
+					"key": 7,
+					"loudness": -4.858,
+					"mode": 1,
+					"speechiness": 0.154,
+					"acousticness": 0.29,
+					"instrumentalness": 0.00000108,
+					"liveness": 0.366,
+					"valence": 0.654,
+					"tempo": 156.028,
+					"type": "audio_features",
+					"id": "6N4wJ4PQ6wuMQ0o6BB7Goh",
+					"uri": "spotify:track:6N4wJ4PQ6wuMQ0o6BB7Goh",
+					"track_href": "https://api.spotify.com/v1/tracks/6N4wJ4PQ6wuMQ0o6BB7Goh",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6N4wJ4PQ6wuMQ0o6BB7Goh",
+					"duration_ms": 179080,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Quero Ser Tua - Eurovision 2014 - Portugal",
+				"artists": [
+					{
+						"name": "Suzy",
+						"id": "1P3MKqZMYmf7vyLXGdEtrt"
+					}
+				],
+				"id": "1oCkSYgHhVjetJyFXGy0jc",
+				"audio-features": {
+					"danceability": 0.746,
+					"energy": 0.918,
+					"key": 0,
+					"loudness": -4.423,
+					"mode": 1,
+					"speechiness": 0.0467,
+					"acousticness": 0.153,
+					"instrumentalness": 0.000626,
+					"liveness": 0.129,
+					"valence": 0.899,
+					"tempo": 130.025,
+					"type": "audio_features",
+					"id": "1oCkSYgHhVjetJyFXGy0jc",
+					"uri": "spotify:track:1oCkSYgHhVjetJyFXGy0jc",
+					"track_href": "https://api.spotify.com/v1/tracks/1oCkSYgHhVjetJyFXGy0jc",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1oCkSYgHhVjetJyFXGy0jc",
+					"duration_ms": 181853,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Miracle - Eurovision 2014 - Romania",
+				"artists": [
+					{
+						"name": "Paula Seling",
+						"id": "0GeZRE8dyvgduV3KTvLFC3"
+					},
+					{
+						"name": "Ovi",
+						"id": "5bqiKYMVjdZjRxDojk5WXs"
+					}
+				],
+				"id": "5BprleVCAECeHsE4IfXYfE",
+				"audio-features": {
+					"danceability": 0.558,
+					"energy": 0.879,
+					"key": 9,
+					"loudness": -3.869,
+					"mode": 1,
+					"speechiness": 0.0403,
+					"acousticness": 0.0181,
+					"instrumentalness": 0,
+					"liveness": 0.109,
+					"valence": 0.327,
+					"tempo": 135.051,
+					"type": "audio_features",
+					"id": "5BprleVCAECeHsE4IfXYfE",
+					"uri": "spotify:track:5BprleVCAECeHsE4IfXYfE",
+					"track_href": "https://api.spotify.com/v1/tracks/5BprleVCAECeHsE4IfXYfE",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5BprleVCAECeHsE4IfXYfE",
+					"duration_ms": 184773,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Shine - Eurovision 2014 - Russia",
+				"artists": [
+					{
+						"name": "Tolmachevy Sisters",
+						"id": "4kFmlgElSfMS3V773eKlMq"
+					}
+				],
+				"id": "7sMNPesOk3HjzpBrNWH3W7",
+				"audio-features": {
+					"danceability": 0.642,
+					"energy": 0.834,
+					"key": 4,
+					"loudness": -5.59,
+					"mode": 0,
+					"speechiness": 0.0319,
+					"acousticness": 0.144,
+					"instrumentalness": 0,
+					"liveness": 0.0723,
+					"valence": 0.728,
+					"tempo": 119.993,
+					"type": "audio_features",
+					"id": "7sMNPesOk3HjzpBrNWH3W7",
+					"uri": "spotify:track:7sMNPesOk3HjzpBrNWH3W7",
+					"track_href": "https://api.spotify.com/v1/tracks/7sMNPesOk3HjzpBrNWH3W7",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7sMNPesOk3HjzpBrNWH3W7",
+					"duration_ms": 186080,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Undo - Eurovision 2014 - Sweden",
+				"artists": [
+					{
+						"name": "Sanna Nielsen",
+						"id": "3PvEhkL4pgu9glR6yOlYKK"
+					}
+				],
+				"id": "4VMa2QVWFDgJyh6rVA3reO",
+				"audio-features": {
+					"danceability": 0.582,
+					"energy": 0.408,
+					"key": 6,
+					"loudness": -6.658,
+					"mode": 1,
+					"speechiness": 0.0377,
+					"acousticness": 0.447,
+					"instrumentalness": 0,
+					"liveness": 0.101,
+					"valence": 0.322,
+					"tempo": 121.911,
+					"type": "audio_features",
+					"id": "4VMa2QVWFDgJyh6rVA3reO",
+					"uri": "spotify:track:4VMa2QVWFDgJyh6rVA3reO",
+					"track_href": "https://api.spotify.com/v1/tracks/4VMa2QVWFDgJyh6rVA3reO",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4VMa2QVWFDgJyh6rVA3reO",
+					"duration_ms": 187267,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Round And Round - Eurovision 2014 - Slovenia",
+				"artists": [
+					{
+						"name": "Tinkara Kovač",
+						"id": "5Y33wVvAj3CyUS8ZHmEchY"
+					}
+				],
+				"id": "2Z7hewbsty1juz2S1qltoV",
+				"audio-features": {
+					"danceability": 0.529,
+					"energy": 0.677,
+					"key": 8,
+					"loudness": -4.759,
+					"mode": 1,
+					"speechiness": 0.0294,
+					"acousticness": 0.0195,
+					"instrumentalness": 0,
+					"liveness": 0.205,
+					"valence": 0.299,
+					"tempo": 120.008,
+					"type": "audio_features",
+					"id": "2Z7hewbsty1juz2S1qltoV",
+					"uri": "spotify:track:2Z7hewbsty1juz2S1qltoV",
+					"track_href": "https://api.spotify.com/v1/tracks/2Z7hewbsty1juz2S1qltoV",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2Z7hewbsty1juz2S1qltoV",
+					"duration_ms": 182280,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Maybe (Forse) - Eurovision 2014 - San Marino",
+				"artists": [
+					{
+						"name": "Valentina Monetta",
+						"id": "0DiFwPjlPCsOAqo7UluOzI"
+					}
+				],
+				"id": "5yLUCQLj75yyIKfpAzdhNZ",
+				"audio-features": {
+					"danceability": 0.555,
+					"energy": 0.762,
+					"key": 7,
+					"loudness": -4.528,
+					"mode": 0,
+					"speechiness": 0.0418,
+					"acousticness": 0.482,
+					"instrumentalness": 0,
+					"liveness": 0.375,
+					"valence": 0.225,
+					"tempo": 114.28,
+					"type": "audio_features",
+					"id": "5yLUCQLj75yyIKfpAzdhNZ",
+					"uri": "spotify:track:5yLUCQLj75yyIKfpAzdhNZ",
+					"track_href": "https://api.spotify.com/v1/tracks/5yLUCQLj75yyIKfpAzdhNZ",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5yLUCQLj75yyIKfpAzdhNZ",
+					"duration_ms": 185013,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Tick - Tock - Eurovision 2014 - Ukraine",
+				"artists": [
+					{
+						"name": "Mariya Yaremchuk",
+						"id": "2GcuaSJbRVxaoxtwlob8G5"
+					}
+				],
+				"id": "0r9VSL7mGjmb4TwUglCLcr",
+				"audio-features": {
+					"danceability": 0.697,
+					"energy": 0.887,
+					"key": 6,
+					"loudness": -4.038,
+					"mode": 0,
+					"speechiness": 0.0387,
+					"acousticness": 0.0104,
+					"instrumentalness": 0.000315,
+					"liveness": 0.0479,
+					"valence": 0.712,
+					"tempo": 124.976,
+					"type": "audio_features",
+					"id": "0r9VSL7mGjmb4TwUglCLcr",
+					"uri": "spotify:track:0r9VSL7mGjmb4TwUglCLcr",
+					"track_href": "https://api.spotify.com/v1/tracks/0r9VSL7mGjmb4TwUglCLcr",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0r9VSL7mGjmb4TwUglCLcr",
+					"duration_ms": 183040,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Rainmaker - Official #JoinUs Song - Bonus Track",
+				"artists": [
+					{
+						"name": "Emmelie de Forest",
+						"id": "3wQcURnqzPGHE0gzY5nE6G"
+					}
+				],
+				"id": "3uayMUYqOcJDGC2Tvk1j45",
+				"audio-features": {
+					"danceability": 0.58,
+					"energy": 0.725,
+					"key": 2,
+					"loudness": -5.283,
+					"mode": 1,
+					"speechiness": 0.0632,
+					"acousticness": 0.0533,
+					"instrumentalness": 0,
+					"liveness": 0.369,
+					"valence": 0.435,
+					"tempo": 97.959,
+					"type": "audio_features",
+					"id": "3uayMUYqOcJDGC2Tvk1j45",
+					"uri": "spotify:track:3uayMUYqOcJDGC2Tvk1j45",
+					"track_href": "https://api.spotify.com/v1/tracks/3uayMUYqOcJDGC2Tvk1j45",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3uayMUYqOcJDGC2Tvk1j45",
+					"duration_ms": 218960,
+					"time_signature": 4
+				}
+			}
+		]
+	},
+	"2015": {
+		"tracks": [
+			{
+				"name": "I'm Alive - Eurovision 2015 - Albania",
+				"artists": [
+					{
+						"name": "Elhaida Dani",
+						"id": "3i1BWiZBM8sSc6Xv6jTRAy"
+					}
+				],
+				"id": "37Iemq844Q9wKENnwbFtWe",
+				"audio-features": {
+					"danceability": 0.302,
+					"energy": 0.731,
+					"key": 9,
+					"loudness": -8.544,
+					"mode": 0,
+					"speechiness": 0.186,
+					"acousticness": 0.0187,
+					"instrumentalness": 0,
+					"liveness": 0.243,
+					"valence": 0.381,
+					"tempo": 150.018,
+					"type": "audio_features",
+					"id": "37Iemq844Q9wKENnwbFtWe",
+					"uri": "spotify:track:37Iemq844Q9wKENnwbFtWe",
+					"track_href": "https://api.spotify.com/v1/tracks/37Iemq844Q9wKENnwbFtWe",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/37Iemq844Q9wKENnwbFtWe",
+					"duration_ms": 186306,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Face The Shadow - Eurovision 2015 / Armenia",
+				"artists": [
+					{
+						"name": "Genealogy",
+						"id": "2Ypl3IcQBaBppBlml9UAoW"
+					}
+				],
+				"id": "719i2VpCO6JVcc8N1t1OtF",
+				"audio-features": {
+					"danceability": 0.445,
+					"energy": 0.542,
+					"key": 7,
+					"loudness": -7.773,
+					"mode": 1,
+					"speechiness": 0.0333,
+					"acousticness": 0.026,
+					"instrumentalness": 0,
+					"liveness": 0.368,
+					"valence": 0.214,
+					"tempo": 121.058,
+					"type": "audio_features",
+					"id": "719i2VpCO6JVcc8N1t1OtF",
+					"uri": "spotify:track:719i2VpCO6JVcc8N1t1OtF",
+					"track_href": "https://api.spotify.com/v1/tracks/719i2VpCO6JVcc8N1t1OtF",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/719i2VpCO6JVcc8N1t1OtF",
+					"duration_ms": 180478,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "I Am Yours",
+				"artists": [
+					{
+						"name": "The Makemakes",
+						"id": "49fUvnsMssQdAWBo7VoKQK"
+					}
+				],
+				"id": "69lMeHeBoAkekQZROdMam2",
+				"audio-features": {
+					"danceability": 0.52,
+					"energy": 0.499,
+					"key": 1,
+					"loudness": -5.716,
+					"mode": 1,
+					"speechiness": 0.025,
+					"acousticness": 0.309,
+					"instrumentalness": 0.00000301,
+					"liveness": 0.104,
+					"valence": 0.246,
+					"tempo": 82.793,
+					"type": "audio_features",
+					"id": "69lMeHeBoAkekQZROdMam2",
+					"uri": "spotify:track:69lMeHeBoAkekQZROdMam2",
+					"track_href": "https://api.spotify.com/v1/tracks/69lMeHeBoAkekQZROdMam2",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/69lMeHeBoAkekQZROdMam2",
+					"duration_ms": 180714,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Tonight Again",
+				"artists": [
+					{
+						"name": "Guy Sebastian",
+						"id": "5PjekOABtfU2Kwo0AHVmci"
+					}
+				],
+				"id": "0yaAFfayze82aoCTY2cxd7",
+				"audio-features": {
+					"danceability": 0.702,
+					"energy": 0.843,
+					"key": 10,
+					"loudness": -2.403,
+					"mode": 1,
+					"speechiness": 0.145,
+					"acousticness": 0.0859,
+					"instrumentalness": 0,
+					"liveness": 0.151,
+					"valence": 0.571,
+					"tempo": 106.095,
+					"type": "audio_features",
+					"id": "0yaAFfayze82aoCTY2cxd7",
+					"uri": "spotify:track:0yaAFfayze82aoCTY2cxd7",
+					"track_href": "https://api.spotify.com/v1/tracks/0yaAFfayze82aoCTY2cxd7",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0yaAFfayze82aoCTY2cxd7",
+					"duration_ms": 203339,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Hour Of The Wolf - Eurovision 2015 - Azerbaijan",
+				"artists": [
+					{
+						"name": "Elnur Huseynov",
+						"id": "4XvCGh1ZCJJqx137rZeFbv"
+					}
+				],
+				"id": "3XhbPuJJG3MlAP2exjHoVy",
+				"audio-features": {
+					"danceability": 0.483,
+					"energy": 0.672,
+					"key": 2,
+					"loudness": -5.137,
+					"mode": 1,
+					"speechiness": 0.04,
+					"acousticness": 0.0602,
+					"instrumentalness": 0.0000451,
+					"liveness": 0.306,
+					"valence": 0.221,
+					"tempo": 106.232,
+					"type": "audio_features",
+					"id": "3XhbPuJJG3MlAP2exjHoVy",
+					"uri": "spotify:track:3XhbPuJJG3MlAP2exjHoVy",
+					"track_href": "https://api.spotify.com/v1/tracks/3XhbPuJJG3MlAP2exjHoVy",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3XhbPuJJG3MlAP2exjHoVy",
+					"duration_ms": 179220,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Rhythm Inside",
+				"artists": [
+					{
+						"name": "Loïc Nottet",
+						"id": "5nAiCPenjjdpUJAmElxmuu"
+					}
+				],
+				"id": "3O2MsMZHCgSbRGEca5ML1N",
+				"audio-features": {
+					"danceability": 0.821,
+					"energy": 0.513,
+					"key": 7,
+					"loudness": -5.388,
+					"mode": 1,
+					"speechiness": 0.0436,
+					"acousticness": 0.0802,
+					"instrumentalness": 0,
+					"liveness": 0.067,
+					"valence": 0.302,
+					"tempo": 90.008,
+					"type": "audio_features",
+					"id": "3O2MsMZHCgSbRGEca5ML1N",
+					"uri": "spotify:track:3O2MsMZHCgSbRGEca5ML1N",
+					"track_href": "https://api.spotify.com/v1/tracks/3O2MsMZHCgSbRGEca5ML1N",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3O2MsMZHCgSbRGEca5ML1N",
+					"duration_ms": 172153,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Time - Eurovision Song Contest 2015",
+				"artists": [
+					{
+						"name": "Uzari",
+						"id": "2IMzd7oNY1ghtYUhCGlBdf"
+					},
+					{
+						"name": "Maimuna",
+						"id": "4RW3yi5lxdJJyNsiODXAij"
+					}
+				],
+				"id": "6blg0qHCVx36QDBGmWpy7M",
+				"audio-features": {
+					"danceability": 0.564,
+					"energy": 0.84,
+					"key": 7,
+					"loudness": -3.928,
+					"mode": 0,
+					"speechiness": 0.0388,
+					"acousticness": 0.0989,
+					"instrumentalness": 0,
+					"liveness": 0.268,
+					"valence": 0.498,
+					"tempo": 129.941,
+					"type": "audio_features",
+					"id": "6blg0qHCVx36QDBGmWpy7M",
+					"uri": "spotify:track:6blg0qHCVx36QDBGmWpy7M",
+					"track_href": "https://api.spotify.com/v1/tracks/6blg0qHCVx36QDBGmWpy7M",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6blg0qHCVx36QDBGmWpy7M",
+					"duration_ms": 184385,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Time to Shine",
+				"artists": [
+					{
+						"name": "Mélanie René",
+						"id": "1FHccyhopspvVyGskwNKuw"
+					}
+				],
+				"id": "6gHVLO8022RixiK0sS1XhK",
+				"audio-features": {
+					"danceability": 0.626,
+					"energy": 0.603,
+					"key": 4,
+					"loudness": -6.221,
+					"mode": 0,
+					"speechiness": 0.042,
+					"acousticness": 0.0817,
+					"instrumentalness": 0,
+					"liveness": 0.0973,
+					"valence": 0.335,
+					"tempo": 139.805,
+					"type": "audio_features",
+					"id": "6gHVLO8022RixiK0sS1XhK",
+					"uri": "spotify:track:6gHVLO8022RixiK0sS1XhK",
+					"track_href": "https://api.spotify.com/v1/tracks/6gHVLO8022RixiK0sS1XhK",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6gHVLO8022RixiK0sS1XhK",
+					"duration_ms": 182451,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "One Thing I Should Have Done - Eurovision 2015 - Cyprus",
+				"artists": [
+					{
+						"name": "John Karayiannis",
+						"id": "2OQOI2OUuF7vQRM2K5YGRd"
+					}
+				],
+				"id": "6Bcf7gRrDgWEZCJzeS26XS",
+				"audio-features": {
+					"danceability": 0.326,
+					"energy": 0.372,
+					"key": 3,
+					"loudness": -9.466,
+					"mode": 1,
+					"speechiness": 0.0309,
+					"acousticness": 0.543,
+					"instrumentalness": 0,
+					"liveness": 0.107,
+					"valence": 0.428,
+					"tempo": 180.654,
+					"type": "audio_features",
+					"id": "6Bcf7gRrDgWEZCJzeS26XS",
+					"uri": "spotify:track:6Bcf7gRrDgWEZCJzeS26XS",
+					"track_href": "https://api.spotify.com/v1/tracks/6Bcf7gRrDgWEZCJzeS26XS",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6Bcf7gRrDgWEZCJzeS26XS",
+					"duration_ms": 182393,
+					"time_signature": 1
+				}
+			},
+			{
+				"name": "Hope Never Dies - Eurovision 2015 - Czech Republic",
+				"artists": [
+					{
+						"name": "Marta Jandová",
+						"id": "4b5KCqDoK78eZOv80ae7ZH"
+					},
+					{
+						"name": "Vaclav Noid Barta",
+						"id": "1mBId0W3GTGIZvY3kkFjzk"
+					}
+				],
+				"id": "2CpDzAchbGIRXekXOpzlbH",
+				"audio-features": {
+					"danceability": 0.493,
+					"energy": 0.4,
+					"key": 2,
+					"loudness": -8.323,
+					"mode": 0,
+					"speechiness": 0.025,
+					"acousticness": 0.243,
+					"instrumentalness": 0,
+					"liveness": 0.0974,
+					"valence": 0.231,
+					"tempo": 91.999,
+					"type": "audio_features",
+					"id": "2CpDzAchbGIRXekXOpzlbH",
+					"uri": "spotify:track:2CpDzAchbGIRXekXOpzlbH",
+					"track_href": "https://api.spotify.com/v1/tracks/2CpDzAchbGIRXekXOpzlbH",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2CpDzAchbGIRXekXOpzlbH",
+					"duration_ms": 184891,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "Black Smoke",
+				"artists": [
+					{
+						"name": "Ann Sophie",
+						"id": "0hOMQC0tbEavntdsulLMGN"
+					}
+				],
+				"id": "5CIcf1jodSZ7ckWIFqw1q7",
+				"audio-features": {
+					"danceability": 0.604,
+					"energy": 0.86,
+					"key": 1,
+					"loudness": -4.464,
+					"mode": 1,
+					"speechiness": 0.0905,
+					"acousticness": 0.00341,
+					"instrumentalness": 0.0000967,
+					"liveness": 0.198,
+					"valence": 0.786,
+					"tempo": 172.065,
+					"type": "audio_features",
+					"id": "5CIcf1jodSZ7ckWIFqw1q7",
+					"uri": "spotify:track:5CIcf1jodSZ7ckWIFqw1q7",
+					"track_href": "https://api.spotify.com/v1/tracks/5CIcf1jodSZ7ckWIFqw1q7",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5CIcf1jodSZ7ckWIFqw1q7",
+					"duration_ms": 192610,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "The Way You Are",
+				"artists": [
+					{
+						"name": "Anti Social Media",
+						"id": "0ZJaNqaSkJOEZNMNRgZFz8"
+					}
+				],
+				"id": "37htkyyp1sgcjG0kgd8vJn",
+				"audio-features": {
+					"danceability": 0.537,
+					"energy": 0.732,
+					"key": 0,
+					"loudness": -4.047,
+					"mode": 1,
+					"speechiness": 0.0297,
+					"acousticness": 0.022,
+					"instrumentalness": 0,
+					"liveness": 0.155,
+					"valence": 0.684,
+					"tempo": 125.012,
+					"type": "audio_features",
+					"id": "37htkyyp1sgcjG0kgd8vJn",
+					"uri": "spotify:track:37htkyyp1sgcjG0kgd8vJn",
+					"track_href": "https://api.spotify.com/v1/tracks/37htkyyp1sgcjG0kgd8vJn",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/37htkyyp1sgcjG0kgd8vJn",
+					"duration_ms": 185617,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Goodbye To Yesterday",
+				"artists": [
+					{
+						"name": "Elina Born & Stig Rästa",
+						"id": "08uWJ3O13e3RJCxaiZh8qm"
+					}
+				],
+				"id": "0RSkLhxAc601EgeKkyXNVB",
+				"audio-features": {
+					"danceability": 0.626,
+					"energy": 0.835,
+					"key": 7,
+					"loudness": -5.059,
+					"mode": 0,
+					"speechiness": 0.0451,
+					"acousticness": 0.377,
+					"instrumentalness": 0.00000119,
+					"liveness": 0.39,
+					"valence": 0.687,
+					"tempo": 138.031,
+					"type": "audio_features",
+					"id": "0RSkLhxAc601EgeKkyXNVB",
+					"uri": "spotify:track:0RSkLhxAc601EgeKkyXNVB",
+					"track_href": "https://api.spotify.com/v1/tracks/0RSkLhxAc601EgeKkyXNVB",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0RSkLhxAc601EgeKkyXNVB",
+					"duration_ms": 179130,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Amanecer",
+				"artists": [
+					{
+						"name": "Edurne",
+						"id": "1RpT4SSsNAr0JaSvvwNkgh"
+					}
+				],
+				"id": "2zHDsCjQGp7XqsqrrNR9t9",
+				"audio-features": {
+					"danceability": 0.44,
+					"energy": 0.676,
+					"key": 3,
+					"loudness": -5.04,
+					"mode": 0,
+					"speechiness": 0.0329,
+					"acousticness": 0.16,
+					"instrumentalness": 0.0000105,
+					"liveness": 0.112,
+					"valence": 0.0902,
+					"tempo": 126.866,
+					"type": "audio_features",
+					"id": "2zHDsCjQGp7XqsqrrNR9t9",
+					"uri": "spotify:track:2zHDsCjQGp7XqsqrrNR9t9",
+					"track_href": "https://api.spotify.com/v1/tracks/2zHDsCjQGp7XqsqrrNR9t9",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2zHDsCjQGp7XqsqrrNR9t9",
+					"duration_ms": 184640,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Aina mun pitää",
+				"artists": [
+					{
+						"name": "Pertti Kurikan Nimipäivät",
+						"id": "12HEbtq4g7OUOX9Gcoih5s"
+					}
+				],
+				"id": "6GGTPYGutuiccn4G8Err6e",
+				"audio-features": {
+					"danceability": 0.394,
+					"energy": 0.847,
+					"key": 0,
+					"loudness": -6.208,
+					"mode": 1,
+					"speechiness": 0.0505,
+					"acousticness": 0.00116,
+					"instrumentalness": 0,
+					"liveness": 0.364,
+					"valence": 0.821,
+					"tempo": 97.019,
+					"type": "audio_features",
+					"id": "6GGTPYGutuiccn4G8Err6e",
+					"uri": "spotify:track:6GGTPYGutuiccn4G8Err6e",
+					"track_href": "https://api.spotify.com/v1/tracks/6GGTPYGutuiccn4G8Err6e",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6GGTPYGutuiccn4G8Err6e",
+					"duration_ms": 84813,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "N'oubliez pas",
+				"artists": [
+					{
+						"name": "Lisa Angell",
+						"id": "55BER7HKsp5yueDQii87bA"
+					}
+				],
+				"id": "1WwIqLv8716t8vNb44mp1R",
+				"audio-features": {
+					"danceability": 0.534,
+					"energy": 0.494,
+					"key": 9,
+					"loudness": -5.858,
+					"mode": 0,
+					"speechiness": 0.0287,
+					"acousticness": 0.746,
+					"instrumentalness": 0,
+					"liveness": 0.136,
+					"valence": 0.215,
+					"tempo": 126.164,
+					"type": "audio_features",
+					"id": "1WwIqLv8716t8vNb44mp1R",
+					"uri": "spotify:track:1WwIqLv8716t8vNb44mp1R",
+					"track_href": "https://api.spotify.com/v1/tracks/1WwIqLv8716t8vNb44mp1R",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1WwIqLv8716t8vNb44mp1R",
+					"duration_ms": 180653,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Still In Love With You - Eurovision 2015 - United Kingdom",
+				"artists": [
+					{
+						"name": "Electro Velvet",
+						"id": "2SZO75WXLFAEwVu32KGEFz"
+					}
+				],
+				"id": "1fIaJlWyVmZBbxOoNxXUav",
+				"audio-features": {
+					"danceability": 0.715,
+					"energy": 0.659,
+					"key": 9,
+					"loudness": -8.073,
+					"mode": 1,
+					"speechiness": 0.0463,
+					"acousticness": 0.00391,
+					"instrumentalness": 0.00000123,
+					"liveness": 0.0638,
+					"valence": 0.614,
+					"tempo": 107.508,
+					"type": "audio_features",
+					"id": "1fIaJlWyVmZBbxOoNxXUav",
+					"uri": "spotify:track:1fIaJlWyVmZBbxOoNxXUav",
+					"track_href": "https://api.spotify.com/v1/tracks/1fIaJlWyVmZBbxOoNxXUav",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1fIaJlWyVmZBbxOoNxXUav",
+					"duration_ms": 183838,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Still in Love with You",
+				"artists": [
+					{
+						"name": "Electro Velvet",
+						"id": "2SZO75WXLFAEwVu32KGEFz"
+					}
+				],
+				"id": "4HtQzcTI6wh3Xjj4fAzz2l",
+				"audio-features": {
+					"danceability": 0.751,
+					"energy": 0.807,
+					"key": 0,
+					"loudness": -4.431,
+					"mode": 1,
+					"speechiness": 0.0577,
+					"acousticness": 0.0271,
+					"instrumentalness": 0,
+					"liveness": 0.0774,
+					"valence": 0.751,
+					"tempo": 117.014,
+					"type": "audio_features",
+					"id": "4HtQzcTI6wh3Xjj4fAzz2l",
+					"uri": "spotify:track:4HtQzcTI6wh3Xjj4fAzz2l",
+					"track_href": "https://api.spotify.com/v1/tracks/4HtQzcTI6wh3Xjj4fAzz2l",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4HtQzcTI6wh3Xjj4fAzz2l",
+					"duration_ms": 168901,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Warrior - Eurovision 2015 - Georgia",
+				"artists": [
+					{
+						"name": "Nina Sublatti",
+						"id": "4oggScCoSfeUZPur5WRTyx"
+					}
+				],
+				"id": "7yU7FlMnnLHEnOVxMmQLCQ",
+				"audio-features": {
+					"danceability": 0.458,
+					"energy": 0.909,
+					"key": 5,
+					"loudness": -4.045,
+					"mode": 0,
+					"speechiness": 0.0927,
+					"acousticness": 0.008,
+					"instrumentalness": 0.0000334,
+					"liveness": 0.216,
+					"valence": 0.355,
+					"tempo": 141.029,
+					"type": "audio_features",
+					"id": "7yU7FlMnnLHEnOVxMmQLCQ",
+					"uri": "spotify:track:7yU7FlMnnLHEnOVxMmQLCQ",
+					"track_href": "https://api.spotify.com/v1/tracks/7yU7FlMnnLHEnOVxMmQLCQ",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7yU7FlMnnLHEnOVxMmQLCQ",
+					"duration_ms": 182126,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "One Last Breath - Eurovision Version",
+				"artists": [
+					{
+						"name": "Maria Elena Kyriakou",
+						"id": "4zav94938LI3xC77r1kEIq"
+					}
+				],
+				"id": "1sRUB6sgbgXjDTRlMn5G76",
+				"audio-features": {
+					"danceability": 0.242,
+					"energy": 0.621,
+					"key": 2,
+					"loudness": -7.358,
+					"mode": 0,
+					"speechiness": 0.039,
+					"acousticness": 0.157,
+					"instrumentalness": 0,
+					"liveness": 0.427,
+					"valence": 0.314,
+					"tempo": 175.936,
+					"type": "audio_features",
+					"id": "1sRUB6sgbgXjDTRlMn5G76",
+					"uri": "spotify:track:1sRUB6sgbgXjDTRlMn5G76",
+					"track_href": "https://api.spotify.com/v1/tracks/1sRUB6sgbgXjDTRlMn5G76",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1sRUB6sgbgXjDTRlMn5G76",
+					"duration_ms": 167794,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Wars For Nothing - Eurovision 2015 - Hungary",
+				"artists": [
+					{
+						"name": "Boggie",
+						"id": "1wsHBdxTTaTeHybht0ch2a"
+					}
+				],
+				"id": "5tnirfLr1ePUkBo9t8O6sB",
+				"audio-features": {
+					"danceability": 0.334,
+					"energy": 0.185,
+					"key": 2,
+					"loudness": -11.122,
+					"mode": 1,
+					"speechiness": 0.033,
+					"acousticness": 0.81,
+					"instrumentalness": 0,
+					"liveness": 0.163,
+					"valence": 0.202,
+					"tempo": 174.43,
+					"type": "audio_features",
+					"id": "5tnirfLr1ePUkBo9t8O6sB",
+					"uri": "spotify:track:5tnirfLr1ePUkBo9t8O6sB",
+					"track_href": "https://api.spotify.com/v1/tracks/5tnirfLr1ePUkBo9t8O6sB",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5tnirfLr1ePUkBo9t8O6sB",
+					"duration_ms": 179712,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "Playing With Numbers",
+				"artists": [
+					{
+						"name": "Molly Sterling",
+						"id": "1T4FGYyp9aQSUQvPljXNwC"
+					},
+					{
+						"name": "Greg French",
+						"id": "1BjcSx9y8ovrC0i4iWNzZe"
+					}
+				],
+				"id": "4KZ3NeO2f2wFHpgKNoTomR",
+				"audio-features": {
+					"danceability": 0.556,
+					"energy": 0.487,
+					"key": 0,
+					"loudness": -6.426,
+					"mode": 1,
+					"speechiness": 0.0271,
+					"acousticness": 0.29,
+					"instrumentalness": 0.0000363,
+					"liveness": 0.311,
+					"valence": 0.216,
+					"tempo": 78.551,
+					"type": "audio_features",
+					"id": "4KZ3NeO2f2wFHpgKNoTomR",
+					"uri": "spotify:track:4KZ3NeO2f2wFHpgKNoTomR",
+					"track_href": "https://api.spotify.com/v1/tracks/4KZ3NeO2f2wFHpgKNoTomR",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4KZ3NeO2f2wFHpgKNoTomR",
+					"duration_ms": 180561,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "Golden Boy - Eurovision 2015 - Israel",
+				"artists": [
+					{
+						"name": "Nadav Guedj",
+						"id": "0QmOR0TqxMPtZxtaIJ5klY"
+					}
+				],
+				"id": "4pCBCEWeBGJxdRWqT8GQkY",
+				"audio-features": {
+					"danceability": 0.659,
+					"energy": 0.751,
+					"key": 1,
+					"loudness": -7.088,
+					"mode": 0,
+					"speechiness": 0.0603,
+					"acousticness": 0.093,
+					"instrumentalness": 0,
+					"liveness": 0.0993,
+					"valence": 0.516,
+					"tempo": 115.021,
+					"type": "audio_features",
+					"id": "4pCBCEWeBGJxdRWqT8GQkY",
+					"uri": "spotify:track:4pCBCEWeBGJxdRWqT8GQkY",
+					"track_href": "https://api.spotify.com/v1/tracks/4pCBCEWeBGJxdRWqT8GQkY",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4pCBCEWeBGJxdRWqT8GQkY",
+					"duration_ms": 179851,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Unbroken",
+				"artists": [
+					{
+						"name": "Maria Olafs",
+						"id": "0T8yX3zTygQeZWzRP1fjGo"
+					}
+				],
+				"id": "2HNAM0vurI7vKAYHu1Bz2t",
+				"audio-features": {
+					"danceability": 0.271,
+					"energy": 0.609,
+					"key": 8,
+					"loudness": -7.029,
+					"mode": 1,
+					"speechiness": 0.0462,
+					"acousticness": 0.101,
+					"instrumentalness": 0.0000306,
+					"liveness": 0.297,
+					"valence": 0.442,
+					"tempo": 194.086,
+					"type": "audio_features",
+					"id": "2HNAM0vurI7vKAYHu1Bz2t",
+					"uri": "spotify:track:2HNAM0vurI7vKAYHu1Bz2t",
+					"track_href": "https://api.spotify.com/v1/tracks/2HNAM0vurI7vKAYHu1Bz2t",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2HNAM0vurI7vKAYHu1Bz2t",
+					"duration_ms": 179994,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Grande amore",
+				"artists": [
+					{
+						"name": "Il Volo",
+						"id": "0dE9ooTNz8iEKIKItRI66t"
+					}
+				],
+				"id": "0kvmefxq2QnrRPGOKJeb4F",
+				"audio-features": {
+					"danceability": 0.463,
+					"energy": 0.617,
+					"key": 1,
+					"loudness": -5.853,
+					"mode": 1,
+					"speechiness": 0.0291,
+					"acousticness": 0.0576,
+					"instrumentalness": 0.0000811,
+					"liveness": 0.133,
+					"valence": 0.176,
+					"tempo": 142.098,
+					"type": "audio_features",
+					"id": "0kvmefxq2QnrRPGOKJeb4F",
+					"uri": "spotify:track:0kvmefxq2QnrRPGOKJeb4F",
+					"track_href": "https://api.spotify.com/v1/tracks/0kvmefxq2QnrRPGOKJeb4F",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0kvmefxq2QnrRPGOKJeb4F",
+					"duration_ms": 226587,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "This Time - Eurovision 2015 - Lithuania",
+				"artists": [
+					{
+						"name": "Monika Linkyte",
+						"id": "5MRYARxlS1hlWFYXGHMztL"
+					},
+					{
+						"name": "Vaidas Baumila",
+						"id": "7AczdBjiNUjo4pxVVucvw1"
+					}
+				],
+				"id": "2J6acmdFTJM24N3gdkXg6k",
+				"audio-features": {
+					"danceability": 0.563,
+					"energy": 0.803,
+					"key": 3,
+					"loudness": -8.776,
+					"mode": 1,
+					"speechiness": 0.0447,
+					"acousticness": 0.00109,
+					"instrumentalness": 0,
+					"liveness": 0.0822,
+					"valence": 0.241,
+					"tempo": 131.016,
+					"type": "audio_features",
+					"id": "2J6acmdFTJM24N3gdkXg6k",
+					"uri": "spotify:track:2J6acmdFTJM24N3gdkXg6k",
+					"track_href": "https://api.spotify.com/v1/tracks/2J6acmdFTJM24N3gdkXg6k",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2J6acmdFTJM24N3gdkXg6k",
+					"duration_ms": 182000,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Love Injected - Eurovision 2015 - Latvia",
+				"artists": [
+					{
+						"name": "Aminata",
+						"id": "1GrxsGX8vHCsX1SDu5j8D3"
+					}
+				],
+				"id": "6w0LeIgIaWXbQ5VzshVLwI",
+				"audio-features": {
+					"danceability": 0.508,
+					"energy": 0.284,
+					"key": 7,
+					"loudness": -11.236,
+					"mode": 0,
+					"speechiness": 0.0551,
+					"acousticness": 0.0415,
+					"instrumentalness": 0.000846,
+					"liveness": 0.142,
+					"valence": 0.155,
+					"tempo": 108.116,
+					"type": "audio_features",
+					"id": "6w0LeIgIaWXbQ5VzshVLwI",
+					"uri": "spotify:track:6w0LeIgIaWXbQ5VzshVLwI",
+					"track_href": "https://api.spotify.com/v1/tracks/6w0LeIgIaWXbQ5VzshVLwI",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6w0LeIgIaWXbQ5VzshVLwI",
+					"duration_ms": 180000,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "I Want Your Love - Eurovision 2015 - Moldova",
+				"artists": [
+					{
+						"name": "Eduard Romanyuta",
+						"id": "6vj36dINepZ0nmpbZhak5c"
+					}
+				],
+				"id": "46L52uicKFc4dP8mp2pNIP",
+				"audio-features": {
+					"danceability": 0.4,
+					"energy": 0.715,
+					"key": 8,
+					"loudness": -7.959,
+					"mode": 1,
+					"speechiness": 0.0393,
+					"acousticness": 0.00381,
+					"instrumentalness": 0,
+					"liveness": 0.156,
+					"valence": 0.766,
+					"tempo": 205.848,
+					"type": "audio_features",
+					"id": "46L52uicKFc4dP8mp2pNIP",
+					"uri": "spotify:track:46L52uicKFc4dP8mp2pNIP",
+					"track_href": "https://api.spotify.com/v1/tracks/46L52uicKFc4dP8mp2pNIP",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/46L52uicKFc4dP8mp2pNIP",
+					"duration_ms": 180872,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Adio - Eurovision 2015 - Montenegro",
+				"artists": [
+					{
+						"name": "Knez",
+						"id": "09DX4Wc82IUYnRbo2TbHxJ"
+					}
+				],
+				"id": "6vMT4GiSXUGT8BREYQgps7",
+				"audio-features": {
+					"danceability": 0.328,
+					"energy": 0.45,
+					"key": 6,
+					"loudness": -10.361,
+					"mode": 0,
+					"speechiness": 0.0306,
+					"acousticness": 0.532,
+					"instrumentalness": 0,
+					"liveness": 0.106,
+					"valence": 0.185,
+					"tempo": 95.08,
+					"type": "audio_features",
+					"id": "6vMT4GiSXUGT8BREYQgps7",
+					"uri": "spotify:track:6vMT4GiSXUGT8BREYQgps7",
+					"track_href": "https://api.spotify.com/v1/tracks/6vMT4GiSXUGT8BREYQgps7",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6vMT4GiSXUGT8BREYQgps7",
+					"duration_ms": 182861,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Autumn Leaves - Eurovision 2015 - F.Y.R. Macedonia",
+				"artists": [
+					{
+						"name": "Daniel Kajmakoski",
+						"id": "5cuDYD52RRxxXIfDGz4ozu"
+					}
+				],
+				"id": "6PruiyHcWU9wbgH4cKPIV4",
+				"audio-features": {
+					"danceability": 0.59,
+					"energy": 0.608,
+					"key": 0,
+					"loudness": -9.13,
+					"mode": 1,
+					"speechiness": 0.0331,
+					"acousticness": 0.418,
+					"instrumentalness": 0,
+					"liveness": 0.0872,
+					"valence": 0.372,
+					"tempo": 120.065,
+					"type": "audio_features",
+					"id": "6PruiyHcWU9wbgH4cKPIV4",
+					"uri": "spotify:track:6PruiyHcWU9wbgH4cKPIV4",
+					"track_href": "https://api.spotify.com/v1/tracks/6PruiyHcWU9wbgH4cKPIV4",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6PruiyHcWU9wbgH4cKPIV4",
+					"duration_ms": 182427,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Warrior - Eurovision 2015 - Malta",
+				"artists": [
+					{
+						"name": "Amber",
+						"id": "0SS58JMs0ccnokU1dm7dyu"
+					}
+				],
+				"id": "5xdda4IGfQq98QnCsNW4eZ",
+				"audio-features": {
+					"danceability": 0.346,
+					"energy": 0.645,
+					"key": 8,
+					"loudness": -7.826,
+					"mode": 1,
+					"speechiness": 0.0477,
+					"acousticness": 0.00877,
+					"instrumentalness": 0,
+					"liveness": 0.292,
+					"valence": 0.225,
+					"tempo": 152.348,
+					"type": "audio_features",
+					"id": "5xdda4IGfQq98QnCsNW4eZ",
+					"uri": "spotify:track:5xdda4IGfQq98QnCsNW4eZ",
+					"track_href": "https://api.spotify.com/v1/tracks/5xdda4IGfQq98QnCsNW4eZ",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5xdda4IGfQq98QnCsNW4eZ",
+					"duration_ms": 179669,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Walk Along",
+				"artists": [
+					{
+						"name": "Trijntje Oosterhuis",
+						"id": "7nJtdgCxkhZFvFMPTsHavb"
+					}
+				],
+				"id": "0z3UNXI7HBMpAX7p8xg2pu",
+				"audio-features": {
+					"danceability": 0.487,
+					"energy": 0.81,
+					"key": 6,
+					"loudness": -3.687,
+					"mode": 1,
+					"speechiness": 0.0423,
+					"acousticness": 0.244,
+					"instrumentalness": 0.0108,
+					"liveness": 0.495,
+					"valence": 0.408,
+					"tempo": 171.785,
+					"type": "audio_features",
+					"id": "0z3UNXI7HBMpAX7p8xg2pu",
+					"uri": "spotify:track:0z3UNXI7HBMpAX7p8xg2pu",
+					"track_href": "https://api.spotify.com/v1/tracks/0z3UNXI7HBMpAX7p8xg2pu",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0z3UNXI7HBMpAX7p8xg2pu",
+					"duration_ms": 183027,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "A Monster Like Me",
+				"artists": [
+					{
+						"name": "Mørland",
+						"id": "5yHx5IUWn7p8cOjFQTdknJ"
+					},
+					{
+						"name": "Debrah Scarlett",
+						"id": "7CMX3TxcoCvI5tRPnXO4Ig"
+					}
+				],
+				"id": "0GQiToyThTXwyIw5IFsKEw",
+				"audio-features": {
+					"danceability": 0.296,
+					"energy": 0.294,
+					"key": 1,
+					"loudness": -9.063,
+					"mode": 0,
+					"speechiness": 0.0296,
+					"acousticness": 0.376,
+					"instrumentalness": 0,
+					"liveness": 0.0937,
+					"valence": 0.154,
+					"tempo": 146.612,
+					"type": "audio_features",
+					"id": "0GQiToyThTXwyIw5IFsKEw",
+					"uri": "spotify:track:0GQiToyThTXwyIw5IFsKEw",
+					"track_href": "https://api.spotify.com/v1/tracks/0GQiToyThTXwyIw5IFsKEw",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0GQiToyThTXwyIw5IFsKEw",
+					"duration_ms": 184307,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "In The Name Of Love",
+				"artists": [
+					{
+						"name": "Monika Kuszynska",
+						"id": "4kvU3m0xxMp46f0tlYWrOH"
+					}
+				],
+				"id": "3QeIjbfwqVg9xwEKoxzfbN",
+				"audio-features": {
+					"danceability": 0.335,
+					"energy": 0.641,
+					"key": 1,
+					"loudness": -6.824,
+					"mode": 1,
+					"speechiness": 0.0404,
+					"acousticness": 0.153,
+					"instrumentalness": 0.000189,
+					"liveness": 0.177,
+					"valence": 0.143,
+					"tempo": 81.927,
+					"type": "audio_features",
+					"id": "3QeIjbfwqVg9xwEKoxzfbN",
+					"uri": "spotify:track:3QeIjbfwqVg9xwEKoxzfbN",
+					"track_href": "https://api.spotify.com/v1/tracks/3QeIjbfwqVg9xwEKoxzfbN",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3QeIjbfwqVg9xwEKoxzfbN",
+					"duration_ms": 176187,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Há Um Mar Que Nos Separa - Eurovision 2015 - Portugal",
+				"artists": [
+					{
+						"name": "Leonor Andrade",
+						"id": "31wZRdAIUnxWrqMfWKmvrU"
+					}
+				],
+				"id": "3r05kiFlIVSjeTH80CzRTI",
+				"audio-features": {
+					"danceability": 0.516,
+					"energy": 0.562,
+					"key": 1,
+					"loudness": -8.742,
+					"mode": 0,
+					"speechiness": 0.0293,
+					"acousticness": 0.0479,
+					"instrumentalness": 0,
+					"liveness": 0.193,
+					"valence": 0.104,
+					"tempo": 111.46,
+					"type": "audio_features",
+					"id": "3r05kiFlIVSjeTH80CzRTI",
+					"uri": "spotify:track:3r05kiFlIVSjeTH80CzRTI",
+					"track_href": "https://api.spotify.com/v1/tracks/3r05kiFlIVSjeTH80CzRTI",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3r05kiFlIVSjeTH80CzRTI",
+					"duration_ms": 179962,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "De La Capat - Eurovision 2015 - Romania",
+				"artists": [
+					{
+						"name": "Voltaj",
+						"id": "42gT1APXU1oJyVU2zZ3McB"
+					}
+				],
+				"id": "4d5N5ltxYZarIwJTiCIMLm",
+				"audio-features": {
+					"danceability": 0.522,
+					"energy": 0.486,
+					"key": 7,
+					"loudness": -8.825,
+					"mode": 0,
+					"speechiness": 0.0276,
+					"acousticness": 0.0686,
+					"instrumentalness": 0,
+					"liveness": 0.104,
+					"valence": 0.0742,
+					"tempo": 90.023,
+					"type": "audio_features",
+					"id": "4d5N5ltxYZarIwJTiCIMLm",
+					"uri": "spotify:track:4d5N5ltxYZarIwJTiCIMLm",
+					"track_href": "https://api.spotify.com/v1/tracks/4d5N5ltxYZarIwJTiCIMLm",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4d5N5ltxYZarIwJTiCIMLm",
+					"duration_ms": 195918,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "De La Capat - Eurovision 2015 - Romania",
+				"artists": [
+					{
+						"name": "Voltaj",
+						"id": "42gT1APXU1oJyVU2zZ3McB"
+					}
+				],
+				"id": "7FdT3o1nl3WWCoSPkl0hOJ",
+				"audio-features": {
+					"danceability": 0.56,
+					"energy": 0.439,
+					"key": 4,
+					"loudness": -10.279,
+					"mode": 1,
+					"speechiness": 0.0271,
+					"acousticness": 0.169,
+					"instrumentalness": 0,
+					"liveness": 0.11,
+					"valence": 0.135,
+					"tempo": 97.901,
+					"type": "audio_features",
+					"id": "7FdT3o1nl3WWCoSPkl0hOJ",
+					"uri": "spotify:track:7FdT3o1nl3WWCoSPkl0hOJ",
+					"track_href": "https://api.spotify.com/v1/tracks/7FdT3o1nl3WWCoSPkl0hOJ",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7FdT3o1nl3WWCoSPkl0hOJ",
+					"duration_ms": 179988,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Beauty Never Lies - Eurovision 2015 - Serbia",
+				"artists": [
+					{
+						"name": "Bojana Stamenov",
+						"id": "4mqvw3z9nVrFgguYAFFsAe"
+					}
+				],
+				"id": "60FcGPWkPbbO0mZxev1U0l",
+				"audio-features": {
+					"danceability": 0.59,
+					"energy": 0.727,
+					"key": 10,
+					"loudness": -6.948,
+					"mode": 0,
+					"speechiness": 0.0392,
+					"acousticness": 0.0424,
+					"instrumentalness": 0,
+					"liveness": 0.363,
+					"valence": 0.456,
+					"tempo": 128.982,
+					"type": "audio_features",
+					"id": "60FcGPWkPbbO0mZxev1U0l",
+					"uri": "spotify:track:60FcGPWkPbbO0mZxev1U0l",
+					"track_href": "https://api.spotify.com/v1/tracks/60FcGPWkPbbO0mZxev1U0l",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/60FcGPWkPbbO0mZxev1U0l",
+					"duration_ms": 179105,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "A Million Voices - Eurovision 2015 - Russia",
+				"artists": [
+					{
+						"name": "Полина Гагарина",
+						"id": "3Pdait6yo2LXvw2CwnagZr"
+					}
+				],
+				"id": "68d6dy8LNAHlocbd4ecu1o",
+				"audio-features": {
+					"danceability": 0.382,
+					"energy": 0.535,
+					"key": 7,
+					"loudness": -8.004,
+					"mode": 1,
+					"speechiness": 0.0305,
+					"acousticness": 0.0403,
+					"instrumentalness": 0,
+					"liveness": 0.121,
+					"valence": 0.221,
+					"tempo": 148.143,
+					"type": "audio_features",
+					"id": "68d6dy8LNAHlocbd4ecu1o",
+					"uri": "spotify:track:68d6dy8LNAHlocbd4ecu1o",
+					"track_href": "https://api.spotify.com/v1/tracks/68d6dy8LNAHlocbd4ecu1o",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/68d6dy8LNAHlocbd4ecu1o",
+					"duration_ms": 185962,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Heroes",
+				"artists": [
+					{
+						"name": "Måns Zelmerlöw",
+						"id": "1IxP1g9VrPzJqXFCsuyHKe"
+					}
+				],
+				"id": "4ciaNqHWA2IzHphZaVRzHI",
+				"audio-features": {
+					"danceability": 0.484,
+					"energy": 0.791,
+					"key": 7,
+					"loudness": -4.27,
+					"mode": 1,
+					"speechiness": 0.0437,
+					"acousticness": 0.0743,
+					"instrumentalness": 0,
+					"liveness": 0.0491,
+					"valence": 0.37,
+					"tempo": 124.008,
+					"type": "audio_features",
+					"id": "4ciaNqHWA2IzHphZaVRzHI",
+					"uri": "spotify:track:4ciaNqHWA2IzHphZaVRzHI",
+					"track_href": "https://api.spotify.com/v1/tracks/4ciaNqHWA2IzHphZaVRzHI",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4ciaNqHWA2IzHphZaVRzHI",
+					"duration_ms": 190613,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Here for You - Radio Edit",
+				"artists": [
+					{
+						"name": "Maraaya",
+						"id": "6IVSIh1lrxBjXZdovPbSdN"
+					}
+				],
+				"id": "0Es5TMIKrTH3bLf0wk0sut",
+				"audio-features": {
+					"danceability": 0.479,
+					"energy": 0.786,
+					"key": 4,
+					"loudness": -4.404,
+					"mode": 0,
+					"speechiness": 0.098,
+					"acousticness": 0.00465,
+					"instrumentalness": 0,
+					"liveness": 0.377,
+					"valence": 0.528,
+					"tempo": 79.131,
+					"type": "audio_features",
+					"id": "0Es5TMIKrTH3bLf0wk0sut",
+					"uri": "spotify:track:0Es5TMIKrTH3bLf0wk0sut",
+					"track_href": "https://api.spotify.com/v1/tracks/0Es5TMIKrTH3bLf0wk0sut",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0Es5TMIKrTH3bLf0wk0sut",
+					"duration_ms": 204209,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Chain of Lights - ESC Version",
+				"artists": [
+					{
+						"name": "Anita Simoncini",
+						"id": "0bkbp5dhCpGtovR6lQ6KPM"
+					},
+					{
+						"name": "Michele Perniola",
+						"id": "3i3qfznVerpT7hIzaAk64u"
+					}
+				],
+				"id": "4ShpIr6hkyVovIEFqKxjB8",
+				"audio-features": {
+					"danceability": 0.627,
+					"energy": 0.786,
+					"key": 6,
+					"loudness": -4.431,
+					"mode": 1,
+					"speechiness": 0.0487,
+					"acousticness": 0.527,
+					"instrumentalness": 0,
+					"liveness": 0.053,
+					"valence": 0.671,
+					"tempo": 77,
+					"type": "audio_features",
+					"id": "4ShpIr6hkyVovIEFqKxjB8",
+					"uri": "spotify:track:4ShpIr6hkyVovIEFqKxjB8",
+					"track_href": "https://api.spotify.com/v1/tracks/4ShpIr6hkyVovIEFqKxjB8",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4ShpIr6hkyVovIEFqKxjB8",
+					"duration_ms": 181324,
+					"time_signature": 4
+				}
+			}
+		]
+	},
+	"2016": {
+		"tracks": [
+			{
+				"name": "World",
+				"artists": [
+					{
+						"name": "Lindita",
+						"id": "0m32TW4UpTH9bc3E3ZvrF6"
+					}
+				],
+				"id": "4cxdvy2QfC7Yzh5m8zwX3i",
+				"audio-features": {
+					"danceability": 0.426,
+					"energy": 0.788,
+					"key": 0,
+					"loudness": -4.566,
+					"mode": 1,
+					"speechiness": 0.0404,
+					"acousticness": 0.11,
+					"instrumentalness": 0,
+					"liveness": 0.289,
+					"valence": 0.307,
+					"tempo": 84.965,
+					"type": "audio_features",
+					"id": "4cxdvy2QfC7Yzh5m8zwX3i",
+					"uri": "spotify:track:4cxdvy2QfC7Yzh5m8zwX3i",
+					"track_href": "https://api.spotify.com/v1/tracks/4cxdvy2QfC7Yzh5m8zwX3i",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4cxdvy2QfC7Yzh5m8zwX3i",
+					"duration_ms": 176223,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Fly With Me",
+				"artists": [
+					{
+						"name": "Artsvik",
+						"id": "01GDk8XueTrPk5iEWQ1rVJ"
+					}
+				],
+				"id": "1PbsliSdEPxPRqtsrKFzOR",
+				"audio-features": {
+					"danceability": 0.579,
+					"energy": 0.803,
+					"key": 4,
+					"loudness": -4.893,
+					"mode": 0,
+					"speechiness": 0.148,
+					"acousticness": 0.79,
+					"instrumentalness": 0.0582,
+					"liveness": 0.0813,
+					"valence": 0.394,
+					"tempo": 180.03,
+					"type": "audio_features",
+					"id": "1PbsliSdEPxPRqtsrKFzOR",
+					"uri": "spotify:track:1PbsliSdEPxPRqtsrKFzOR",
+					"track_href": "https://api.spotify.com/v1/tracks/1PbsliSdEPxPRqtsrKFzOR",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1PbsliSdEPxPRqtsrKFzOR",
+					"duration_ms": 179134,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Don't Come Easy",
+				"artists": [
+					{
+						"name": "Isaiah",
+						"id": "5lXfVoQxVgC5fpjkVqvNYn"
+					}
+				],
+				"id": "2xI4CmkT6Bl4s5b4qggcgU",
+				"audio-features": {
+					"danceability": 0.329,
+					"energy": 0.631,
+					"key": 2,
+					"loudness": -4.343,
+					"mode": 1,
+					"speechiness": 0.0486,
+					"acousticness": 0.26,
+					"instrumentalness": 0,
+					"liveness": 0.269,
+					"valence": 0.554,
+					"tempo": 155.856,
+					"type": "audio_features",
+					"id": "2xI4CmkT6Bl4s5b4qggcgU",
+					"uri": "spotify:track:2xI4CmkT6Bl4s5b4qggcgU",
+					"track_href": "https://api.spotify.com/v1/tracks/2xI4CmkT6Bl4s5b4qggcgU",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2xI4CmkT6Bl4s5b4qggcgU",
+					"duration_ms": 185237,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Running On Air",
+				"artists": [
+					{
+						"name": "Nathan Trent",
+						"id": "6U4uEoS3ISgppqupG6GJoZ"
+					}
+				],
+				"id": "1WpQu8U3quBeGnhpZn0r7N",
+				"audio-features": {
+					"danceability": 0.715,
+					"energy": 0.543,
+					"key": 9,
+					"loudness": -4.972,
+					"mode": 1,
+					"speechiness": 0.0334,
+					"acousticness": 0.112,
+					"instrumentalness": 0,
+					"liveness": 0.228,
+					"valence": 0.557,
+					"tempo": 90.007,
+					"type": "audio_features",
+					"id": "1WpQu8U3quBeGnhpZn0r7N",
+					"uri": "spotify:track:1WpQu8U3quBeGnhpZn0r7N",
+					"track_href": "https://api.spotify.com/v1/tracks/1WpQu8U3quBeGnhpZn0r7N",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1WpQu8U3quBeGnhpZn0r7N",
+					"duration_ms": 168000,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Skeletons",
+				"artists": [
+					{
+						"name": "Dihaj",
+						"id": "77u50Xwgm9in74FEVcYYro"
+					}
+				],
+				"id": "4NtcojKRdDC5AL9PtxlAQN",
+				"audio-features": {
+					"danceability": 0.475,
+					"energy": 0.652,
+					"key": 6,
+					"loudness": -7.38,
+					"mode": 0,
+					"speechiness": 0.0383,
+					"acousticness": 0.0388,
+					"instrumentalness": 0.00000519,
+					"liveness": 0.0999,
+					"valence": 0.309,
+					"tempo": 89.821,
+					"type": "audio_features",
+					"id": "4NtcojKRdDC5AL9PtxlAQN",
+					"uri": "spotify:track:4NtcojKRdDC5AL9PtxlAQN",
+					"track_href": "https://api.spotify.com/v1/tracks/4NtcojKRdDC5AL9PtxlAQN",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4NtcojKRdDC5AL9PtxlAQN",
+					"duration_ms": 179541,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "City Lights",
+				"artists": [
+					{
+						"name": "Blanche",
+						"id": "3qMyym6ov558YgVuOOscEm"
+					}
+				],
+				"id": "3kXqUXnukwkpsxhW8emNC0",
+				"audio-features": {
+					"danceability": 0.607,
+					"energy": 0.449,
+					"key": 0,
+					"loudness": -8.785,
+					"mode": 0,
+					"speechiness": 0.027,
+					"acousticness": 0.234,
+					"instrumentalness": 0.00000731,
+					"liveness": 0.208,
+					"valence": 0.146,
+					"tempo": 129.947,
+					"type": "audio_features",
+					"id": "3kXqUXnukwkpsxhW8emNC0",
+					"uri": "spotify:track:3kXqUXnukwkpsxhW8emNC0",
+					"track_href": "https://api.spotify.com/v1/tracks/3kXqUXnukwkpsxhW8emNC0",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3kXqUXnukwkpsxhW8emNC0",
+					"duration_ms": 174577,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Beautiful Mess",
+				"artists": [
+					{
+						"name": "Kristian Kostov",
+						"id": "1JjIKP5IOuEDXQVZsbUiB2"
+					}
+				],
+				"id": "5YCqzqb6yN6TsMOHb4FSVw",
+				"audio-features": {
+					"danceability": 0.408,
+					"energy": 0.506,
+					"key": 0,
+					"loudness": -8.24,
+					"mode": 0,
+					"speechiness": 0.0355,
+					"acousticness": 0.419,
+					"instrumentalness": 0,
+					"liveness": 0.108,
+					"valence": 0.205,
+					"tempo": 125.576,
+					"type": "audio_features",
+					"id": "5YCqzqb6yN6TsMOHb4FSVw",
+					"uri": "spotify:track:5YCqzqb6yN6TsMOHb4FSVw",
+					"track_href": "https://api.spotify.com/v1/tracks/5YCqzqb6yN6TsMOHb4FSVw",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5YCqzqb6yN6TsMOHb4FSVw",
+					"duration_ms": 180952,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Historyja Majho žyccia (Story of My Life) [Eurovision 2017]",
+				"artists": [
+					{
+						"name": "NAVIBAND",
+						"id": "3VPwrxGAeBDIeBLdNVCAMi"
+					}
+				],
+				"id": "6ADaThAwRHYRDbqgBexynb",
+				"audio-features": {
+					"danceability": 0.458,
+					"energy": 0.966,
+					"key": 4,
+					"loudness": -4.427,
+					"mode": 1,
+					"speechiness": 0.0841,
+					"acousticness": 0.0228,
+					"instrumentalness": 0,
+					"liveness": 0.392,
+					"valence": 0.42,
+					"tempo": 154.995,
+					"type": "audio_features",
+					"id": "6ADaThAwRHYRDbqgBexynb",
+					"uri": "spotify:track:6ADaThAwRHYRDbqgBexynb",
+					"track_href": "https://api.spotify.com/v1/tracks/6ADaThAwRHYRDbqgBexynb",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6ADaThAwRHYRDbqgBexynb",
+					"duration_ms": 179613,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Apollo - Eurovision Version",
+				"artists": [
+					{
+						"name": "Timebelle",
+						"id": "5HiW8Shh2vPcD16rE8MaBr"
+					}
+				],
+				"id": "1YySksBo8O9tdgBcdPIIWw",
+				"audio-features": {
+					"danceability": 0.606,
+					"energy": 0.562,
+					"key": 10,
+					"loudness": -6.496,
+					"mode": 1,
+					"speechiness": 0.0927,
+					"acousticness": 0.109,
+					"instrumentalness": 0,
+					"liveness": 0.106,
+					"valence": 0.285,
+					"tempo": 86.992,
+					"type": "audio_features",
+					"id": "1YySksBo8O9tdgBcdPIIWw",
+					"uri": "spotify:track:1YySksBo8O9tdgBcdPIIWw",
+					"track_href": "https://api.spotify.com/v1/tracks/1YySksBo8O9tdgBcdPIIWw",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1YySksBo8O9tdgBcdPIIWw",
+					"duration_ms": 179307,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Gravity",
+				"artists": [
+					{
+						"name": "Hovig",
+						"id": "1xRQGg0aM0GeNZ5ThGLUep"
+					}
+				],
+				"id": "5myq1sZmpLWsdTxhoQYkxA",
+				"audio-features": {
+					"danceability": 0.5,
+					"energy": 0.738,
+					"key": 10,
+					"loudness": -5.949,
+					"mode": 0,
+					"speechiness": 0.0865,
+					"acousticness": 0.0167,
+					"instrumentalness": 0,
+					"liveness": 0.108,
+					"valence": 0.74,
+					"tempo": 75.135,
+					"type": "audio_features",
+					"id": "5myq1sZmpLWsdTxhoQYkxA",
+					"uri": "spotify:track:5myq1sZmpLWsdTxhoQYkxA",
+					"track_href": "https://api.spotify.com/v1/tracks/5myq1sZmpLWsdTxhoQYkxA",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5myq1sZmpLWsdTxhoQYkxA",
+					"duration_ms": 179961,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "My Turn",
+				"artists": [
+					{
+						"name": "Martina Bárta",
+						"id": "7iLVoXj23apxtDj16V9sGc"
+					}
+				],
+				"id": "46akfgyewAFDiPtdPyJetE",
+				"audio-features": {
+					"danceability": 0.518,
+					"energy": 0.42,
+					"key": 7,
+					"loudness": -5.968,
+					"mode": 1,
+					"speechiness": 0.0304,
+					"acousticness": 0.455,
+					"instrumentalness": 0,
+					"liveness": 0.311,
+					"valence": 0.174,
+					"tempo": 129.289,
+					"type": "audio_features",
+					"id": "46akfgyewAFDiPtdPyJetE",
+					"uri": "spotify:track:46akfgyewAFDiPtdPyJetE",
+					"track_href": "https://api.spotify.com/v1/tracks/46akfgyewAFDiPtdPyJetE",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/46akfgyewAFDiPtdPyJetE",
+					"duration_ms": 178777,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Perfect Life",
+				"artists": [
+					{
+						"name": "Levina",
+						"id": "3AMWkkeLQXQdNw4cNwgtBB"
+					}
+				],
+				"id": "04yr4MXjMrQZlZlcdqFtgN",
+				"audio-features": {
+					"danceability": 0.812,
+					"energy": 0.699,
+					"key": 3,
+					"loudness": -5.882,
+					"mode": 1,
+					"speechiness": 0.0473,
+					"acousticness": 0.376,
+					"instrumentalness": 0,
+					"liveness": 0.127,
+					"valence": 0.521,
+					"tempo": 124.014,
+					"type": "audio_features",
+					"id": "04yr4MXjMrQZlZlcdqFtgN",
+					"uri": "spotify:track:04yr4MXjMrQZlZlcdqFtgN",
+					"track_href": "https://api.spotify.com/v1/tracks/04yr4MXjMrQZlZlcdqFtgN",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/04yr4MXjMrQZlZlcdqFtgN",
+					"duration_ms": 181613,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Where I Am",
+				"artists": [
+					{
+						"name": "Anja Nissen",
+						"id": "6KjtX8ZPAoeLFnuv36UBpQ"
+					}
+				],
+				"id": "2FM1zCMO0OE9g6JqmT9p36",
+				"audio-features": {
+					"danceability": 0.414,
+					"energy": 0.779,
+					"key": 10,
+					"loudness": -4.863,
+					"mode": 0,
+					"speechiness": 0.116,
+					"acousticness": 0.0335,
+					"instrumentalness": 0.00000309,
+					"liveness": 0.492,
+					"valence": 0.621,
+					"tempo": 181.855,
+					"type": "audio_features",
+					"id": "2FM1zCMO0OE9g6JqmT9p36",
+					"uri": "spotify:track:2FM1zCMO0OE9g6JqmT9p36",
+					"track_href": "https://api.spotify.com/v1/tracks/2FM1zCMO0OE9g6JqmT9p36",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2FM1zCMO0OE9g6JqmT9p36",
+					"duration_ms": 179751,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Do It for Your Lover - Eurovision 2017",
+				"artists": [
+					{
+						"name": "Manel Navarro",
+						"id": "2JPHexLGEM1hT0Jli8rztQ"
+					}
+				],
+				"id": "1wwcsua0ofpGmmPaTRg1SX",
+				"audio-features": {
+					"danceability": 0.656,
+					"energy": 0.768,
+					"key": 7,
+					"loudness": -4.117,
+					"mode": 1,
+					"speechiness": 0.0512,
+					"acousticness": 0.0133,
+					"instrumentalness": 0.00000494,
+					"liveness": 0.106,
+					"valence": 0.883,
+					"tempo": 169.94,
+					"type": "audio_features",
+					"id": "1wwcsua0ofpGmmPaTRg1SX",
+					"uri": "spotify:track:1wwcsua0ofpGmmPaTRg1SX",
+					"track_href": "https://api.spotify.com/v1/tracks/1wwcsua0ofpGmmPaTRg1SX",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1wwcsua0ofpGmmPaTRg1SX",
+					"duration_ms": 182282,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Verona",
+				"artists": [
+					{
+						"name": "KOIT TOOME",
+						"id": "5eRi1IKofAOO9rEGHCgOGc"
+					},
+					{
+						"name": "Laura",
+						"id": "4PIW6aNu2AfeKQqkMGWVmS"
+					}
+				],
+				"id": "7o2z6XCnmhVG9OWyeCpN51",
+				"audio-features": {
+					"danceability": 0.614,
+					"energy": 0.823,
+					"key": 2,
+					"loudness": -4.345,
+					"mode": 0,
+					"speechiness": 0.0297,
+					"acousticness": 0.00719,
+					"instrumentalness": 0.00000179,
+					"liveness": 0.352,
+					"valence": 0.284,
+					"tempo": 110.973,
+					"type": "audio_features",
+					"id": "7o2z6XCnmhVG9OWyeCpN51",
+					"uri": "spotify:track:7o2z6XCnmhVG9OWyeCpN51",
+					"track_href": "https://api.spotify.com/v1/tracks/7o2z6XCnmhVG9OWyeCpN51",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7o2z6XCnmhVG9OWyeCpN51",
+					"duration_ms": 196855,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Blackbird",
+				"artists": [
+					{
+						"name": "Norma John",
+						"id": "502D1lUn0NxIlvI5fXApU5"
+					}
+				],
+				"id": "5smOjD2P4QicFbYMIzwuuU",
+				"audio-features": {
+					"danceability": 0.264,
+					"energy": 0.338,
+					"key": 2,
+					"loudness": -10.667,
+					"mode": 1,
+					"speechiness": 0.0319,
+					"acousticness": 0.84,
+					"instrumentalness": 0.0454,
+					"liveness": 0.14,
+					"valence": 0.119,
+					"tempo": 150.344,
+					"type": "audio_features",
+					"id": "5smOjD2P4QicFbYMIzwuuU",
+					"uri": "spotify:track:5smOjD2P4QicFbYMIzwuuU",
+					"track_href": "https://api.spotify.com/v1/tracks/5smOjD2P4QicFbYMIzwuuU",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5smOjD2P4QicFbYMIzwuuU",
+					"duration_ms": 187597,
+					"time_signature": 1
+				}
+			},
+			{
+				"name": "Requiem - Eurovision version",
+				"artists": [
+					{
+						"name": "Alma",
+						"id": "6UUoOFrzfmGZ50AP9SY97H"
+					}
+				],
+				"id": "4Lhk5r1sm6MwH08JkwDZ0O",
+				"audio-features": {
+					"danceability": 0.548,
+					"energy": 0.783,
+					"key": 11,
+					"loudness": -5.118,
+					"mode": 0,
+					"speechiness": 0.143,
+					"acousticness": 0.138,
+					"instrumentalness": 0,
+					"liveness": 0.14,
+					"valence": 0.44,
+					"tempo": 108.26,
+					"type": "audio_features",
+					"id": "4Lhk5r1sm6MwH08JkwDZ0O",
+					"uri": "spotify:track:4Lhk5r1sm6MwH08JkwDZ0O",
+					"track_href": "https://api.spotify.com/v1/tracks/4Lhk5r1sm6MwH08JkwDZ0O",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4Lhk5r1sm6MwH08JkwDZ0O",
+					"duration_ms": 180538,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Never Give up on You",
+				"artists": [
+					{
+						"name": "Lucie Jones",
+						"id": "36iiHfBQwMbT4UNrxesTjU"
+					}
+				],
+				"id": "5DogshhX7OQqGTZvYw7rBi",
+				"audio-features": {
+					"danceability": 0.41,
+					"energy": 0.372,
+					"key": 5,
+					"loudness": -8.181,
+					"mode": 1,
+					"speechiness": 0.0419,
+					"acousticness": 0.397,
+					"instrumentalness": 0,
+					"liveness": 0.325,
+					"valence": 0.247,
+					"tempo": 128.437,
+					"type": "audio_features",
+					"id": "5DogshhX7OQqGTZvYw7rBi",
+					"uri": "spotify:track:5DogshhX7OQqGTZvYw7rBi",
+					"track_href": "https://api.spotify.com/v1/tracks/5DogshhX7OQqGTZvYw7rBi",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5DogshhX7OQqGTZvYw7rBi",
+					"duration_ms": 179948,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Keep The Faith",
+				"artists": [
+					{
+						"name": "Tamara Gachechiladze",
+						"id": "7nePZoN6yrp5EA3W5piwO6"
+					}
+				],
+				"id": "1VlyOHFito6ioGEA26PZ3f",
+				"audio-features": {
+					"danceability": 0.286,
+					"energy": 0.678,
+					"key": 7,
+					"loudness": -5.635,
+					"mode": 0,
+					"speechiness": 0.0554,
+					"acousticness": 0.159,
+					"instrumentalness": 0,
+					"liveness": 0.0933,
+					"valence": 0.152,
+					"tempo": 131.8,
+					"type": "audio_features",
+					"id": "1VlyOHFito6ioGEA26PZ3f",
+					"uri": "spotify:track:1VlyOHFito6ioGEA26PZ3f",
+					"track_href": "https://api.spotify.com/v1/tracks/1VlyOHFito6ioGEA26PZ3f",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1VlyOHFito6ioGEA26PZ3f",
+					"duration_ms": 178434,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "This Is Love",
+				"artists": [
+					{
+						"name": "Demy",
+						"id": "12muvykhaMY3RlVrJQ2ApM"
+					}
+				],
+				"id": "6x508kWYHYLgVIZv6rnufC",
+				"audio-features": {
+					"danceability": 0.54,
+					"energy": 0.68,
+					"key": 9,
+					"loudness": -7.851,
+					"mode": 0,
+					"speechiness": 0.0299,
+					"acousticness": 0.000356,
+					"instrumentalness": 0.000254,
+					"liveness": 0.112,
+					"valence": 0.222,
+					"tempo": 127.988,
+					"type": "audio_features",
+					"id": "6x508kWYHYLgVIZv6rnufC",
+					"uri": "spotify:track:6x508kWYHYLgVIZv6rnufC",
+					"track_href": "https://api.spotify.com/v1/tracks/6x508kWYHYLgVIZv6rnufC",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6x508kWYHYLgVIZv6rnufC",
+					"duration_ms": 180000,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "MY FRIEND",
+				"artists": [
+					{
+						"name": "Jacques Houdek",
+						"id": "3YGhjqvLaubUOc5KuqNRQs"
+					}
+				],
+				"id": "184cjXwukXedpuWm4Xl6X7",
+				"audio-features": {
+					"danceability": 0.42,
+					"energy": 0.654,
+					"key": 0,
+					"loudness": -5.825,
+					"mode": 1,
+					"speechiness": 0.0492,
+					"acousticness": 0.209,
+					"instrumentalness": 0.00000818,
+					"liveness": 0.169,
+					"valence": 0.325,
+					"tempo": 137.958,
+					"type": "audio_features",
+					"id": "184cjXwukXedpuWm4Xl6X7",
+					"uri": "spotify:track:184cjXwukXedpuWm4Xl6X7",
+					"track_href": "https://api.spotify.com/v1/tracks/184cjXwukXedpuWm4Xl6X7",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/184cjXwukXedpuWm4Xl6X7",
+					"duration_ms": 180217,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Origo - Eurovision Version",
+				"artists": [
+					{
+						"name": "Pápai Joci",
+						"id": "1xYRrfmh7NjIUY6XuJhvVm"
+					}
+				],
+				"id": "0Skpofj44N2m60sa74Aufz",
+				"audio-features": {
+					"danceability": 0.546,
+					"energy": 0.729,
+					"key": 9,
+					"loudness": -6.303,
+					"mode": 0,
+					"speechiness": 0.219,
+					"acousticness": 0.581,
+					"instrumentalness": 0,
+					"liveness": 0.477,
+					"valence": 0.436,
+					"tempo": 108.212,
+					"type": "audio_features",
+					"id": "0Skpofj44N2m60sa74Aufz",
+					"uri": "spotify:track:0Skpofj44N2m60sa74Aufz",
+					"track_href": "https://api.spotify.com/v1/tracks/0Skpofj44N2m60sa74Aufz",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/0Skpofj44N2m60sa74Aufz",
+					"duration_ms": 181133,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Dying To Try",
+				"artists": [
+					{
+						"name": "Brendan Murray",
+						"id": "7vXVpxnqu4GYer1u9eNvLw"
+					}
+				],
+				"id": "1CrTu1tVWPUSkW9OtHM3LK",
+				"audio-features": {
+					"danceability": 0.517,
+					"energy": 0.483,
+					"key": 5,
+					"loudness": -7.18,
+					"mode": 0,
+					"speechiness": 0.03,
+					"acousticness": 0.58,
+					"instrumentalness": 0,
+					"liveness": 0.101,
+					"valence": 0.183,
+					"tempo": 82.017,
+					"type": "audio_features",
+					"id": "1CrTu1tVWPUSkW9OtHM3LK",
+					"uri": "spotify:track:1CrTu1tVWPUSkW9OtHM3LK",
+					"track_href": "https://api.spotify.com/v1/tracks/1CrTu1tVWPUSkW9OtHM3LK",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1CrTu1tVWPUSkW9OtHM3LK",
+					"duration_ms": 180162,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "Paper",
+				"artists": [
+					{
+						"name": "Svala",
+						"id": "2rd4gPVTRgvoI6H4xZiNZH"
+					}
+				],
+				"id": "6g1v2Cw2gejBa4qRQM3QKm",
+				"audio-features": {
+					"danceability": 0.631,
+					"energy": 0.691,
+					"key": 2,
+					"loudness": -5.383,
+					"mode": 0,
+					"speechiness": 0.0372,
+					"acousticness": 0.0107,
+					"instrumentalness": 0,
+					"liveness": 0.184,
+					"valence": 0.297,
+					"tempo": 107.89,
+					"type": "audio_features",
+					"id": "6g1v2Cw2gejBa4qRQM3QKm",
+					"uri": "spotify:track:6g1v2Cw2gejBa4qRQM3QKm",
+					"track_href": "https://api.spotify.com/v1/tracks/6g1v2Cw2gejBa4qRQM3QKm",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/6g1v2Cw2gejBa4qRQM3QKm",
+					"duration_ms": 180000,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "I Feel Alive",
+				"artists": [
+					{
+						"name": "IMRI",
+						"id": "0SWdzEo0WG8A0CsBiJMuJS"
+					}
+				],
+				"id": "2N43TKlYTUfNPlyJK2exnh",
+				"audio-features": {
+					"danceability": 0.645,
+					"energy": 0.669,
+					"key": 0,
+					"loudness": -6.33,
+					"mode": 0,
+					"speechiness": 0.0371,
+					"acousticness": 0.296,
+					"instrumentalness": 0,
+					"liveness": 0.0693,
+					"valence": 0.461,
+					"tempo": 125.027,
+					"type": "audio_features",
+					"id": "2N43TKlYTUfNPlyJK2exnh",
+					"uri": "spotify:track:2N43TKlYTUfNPlyJK2exnh",
+					"track_href": "https://api.spotify.com/v1/tracks/2N43TKlYTUfNPlyJK2exnh",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2N43TKlYTUfNPlyJK2exnh",
+					"duration_ms": 180480,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Occidentali's Karma - Radio Edit",
+				"artists": [
+					{
+						"name": "Francesco Gabbani",
+						"id": "5lzqFxifzjxYHGJxuwQqtR"
+					}
+				],
+				"id": "4UPyr3Tep8idtAmisAu1qs",
+				"audio-features": {
+					"danceability": 0.669,
+					"energy": 0.832,
+					"key": 10,
+					"loudness": -4.014,
+					"mode": 1,
+					"speechiness": 0.075,
+					"acousticness": 0.0424,
+					"instrumentalness": 0.00000389,
+					"liveness": 0.111,
+					"valence": 0.577,
+					"tempo": 114.046,
+					"type": "audio_features",
+					"id": "4UPyr3Tep8idtAmisAu1qs",
+					"uri": "spotify:track:4UPyr3Tep8idtAmisAu1qs",
+					"track_href": "https://api.spotify.com/v1/tracks/4UPyr3Tep8idtAmisAu1qs",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4UPyr3Tep8idtAmisAu1qs",
+					"duration_ms": 217625,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Rain Of Revolution",
+				"artists": [
+					{
+						"name": "Fusedmarc",
+						"id": "5Pct3Apypzh4Q5W45sFUN2"
+					}
+				],
+				"id": "03o3DA7HEqZPFVKL9R28ur",
+				"audio-features": {
+					"danceability": 0.649,
+					"energy": 0.775,
+					"key": 1,
+					"loudness": -4.684,
+					"mode": 1,
+					"speechiness": 0.0582,
+					"acousticness": 0.041,
+					"instrumentalness": 0.000516,
+					"liveness": 0.101,
+					"valence": 0.279,
+					"tempo": 100.996,
+					"type": "audio_features",
+					"id": "03o3DA7HEqZPFVKL9R28ur",
+					"uri": "spotify:track:03o3DA7HEqZPFVKL9R28ur",
+					"track_href": "https://api.spotify.com/v1/tracks/03o3DA7HEqZPFVKL9R28ur",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/03o3DA7HEqZPFVKL9R28ur",
+					"duration_ms": 185347,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Line",
+				"artists": [
+					{
+						"name": "Triana Park",
+						"id": "2Ke7AtG16oVgN9IrkQqw69"
+					}
+				],
+				"id": "3ETIdeZcAiPQkHS1h0lyiY",
+				"audio-features": {
+					"danceability": 0.706,
+					"energy": 0.644,
+					"key": 8,
+					"loudness": -7.045,
+					"mode": 0,
+					"speechiness": 0.0372,
+					"acousticness": 0.0136,
+					"instrumentalness": 0.000032,
+					"liveness": 0.187,
+					"valence": 0.357,
+					"tempo": 126.02,
+					"type": "audio_features",
+					"id": "3ETIdeZcAiPQkHS1h0lyiY",
+					"uri": "spotify:track:3ETIdeZcAiPQkHS1h0lyiY",
+					"track_href": "https://api.spotify.com/v1/tracks/3ETIdeZcAiPQkHS1h0lyiY",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3ETIdeZcAiPQkHS1h0lyiY",
+					"duration_ms": 186579,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Hey Mamma - Radio Edit",
+				"artists": [
+					{
+						"name": "Sunstroke Project",
+						"id": "3c55dzx6W0ZFs0frtEgIsm"
+					}
+				],
+				"id": "59JayqW5h9kyhLEcCTwPRX",
+				"audio-features": {
+					"danceability": 0.833,
+					"energy": 0.806,
+					"key": 10,
+					"loudness": -5.946,
+					"mode": 0,
+					"speechiness": 0.113,
+					"acousticness": 0.231,
+					"instrumentalness": 0.00944,
+					"liveness": 0.0681,
+					"valence": 0.636,
+					"tempo": 110.098,
+					"type": "audio_features",
+					"id": "59JayqW5h9kyhLEcCTwPRX",
+					"uri": "spotify:track:59JayqW5h9kyhLEcCTwPRX",
+					"track_href": "https://api.spotify.com/v1/tracks/59JayqW5h9kyhLEcCTwPRX",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/59JayqW5h9kyhLEcCTwPRX",
+					"duration_ms": 179625,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Dance Alone",
+				"artists": [
+					{
+						"name": "Jana Burcheska",
+						"id": "3fX8UVwThMQKkIkpfIv36Q"
+					}
+				],
+				"id": "2oim5PeJo33M01bXAUVKLu",
+				"audio-features": {
+					"danceability": 0.649,
+					"energy": 0.764,
+					"key": 1,
+					"loudness": -7.853,
+					"mode": 0,
+					"speechiness": 0.0363,
+					"acousticness": 0.00263,
+					"instrumentalness": 0.00008,
+					"liveness": 0.327,
+					"valence": 0.396,
+					"tempo": 120.02,
+					"type": "audio_features",
+					"id": "2oim5PeJo33M01bXAUVKLu",
+					"uri": "spotify:track:2oim5PeJo33M01bXAUVKLu",
+					"track_href": "https://api.spotify.com/v1/tracks/2oim5PeJo33M01bXAUVKLu",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2oim5PeJo33M01bXAUVKLu",
+					"duration_ms": 186293,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Breathlessly",
+				"artists": [
+					{
+						"name": "Claudia Faniello",
+						"id": "1JNLb1PEhxZSoGWncLTgKO"
+					}
+				],
+				"id": "2gVByOGeervnFoKHx6FjTz",
+				"audio-features": {
+					"danceability": 0.521,
+					"energy": 0.478,
+					"key": 1,
+					"loudness": -5.741,
+					"mode": 1,
+					"speechiness": 0.0273,
+					"acousticness": 0.661,
+					"instrumentalness": 0,
+					"liveness": 0.0873,
+					"valence": 0.176,
+					"tempo": 75.997,
+					"type": "audio_features",
+					"id": "2gVByOGeervnFoKHx6FjTz",
+					"uri": "spotify:track:2gVByOGeervnFoKHx6FjTz",
+					"track_href": "https://api.spotify.com/v1/tracks/2gVByOGeervnFoKHx6FjTz",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2gVByOGeervnFoKHx6FjTz",
+					"duration_ms": 180089,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Space",
+				"artists": [
+					{
+						"name": "Slavko Kalezić",
+						"id": "18S8lZ1VmSpKJkRlXP1nFy"
+					}
+				],
+				"id": "4zEULD8iaJhK3Cs8oVkMSx",
+				"audio-features": {
+					"danceability": 0.579,
+					"energy": 0.941,
+					"key": 9,
+					"loudness": -4.029,
+					"mode": 0,
+					"speechiness": 0.0873,
+					"acousticness": 0.00623,
+					"instrumentalness": 0,
+					"liveness": 0.107,
+					"valence": 0.537,
+					"tempo": 120.06,
+					"type": "audio_features",
+					"id": "4zEULD8iaJhK3Cs8oVkMSx",
+					"uri": "spotify:track:4zEULD8iaJhK3Cs8oVkMSx",
+					"track_href": "https://api.spotify.com/v1/tracks/4zEULD8iaJhK3Cs8oVkMSx",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/4zEULD8iaJhK3Cs8oVkMSx",
+					"duration_ms": 179496,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Lights and Shadows",
+				"artists": [
+					{
+						"name": "OG3NE",
+						"id": "1SiCF4gVjnR5iAIwk1nkXo"
+					}
+				],
+				"id": "5pTMXokyHE9OQyIDvi7ayz",
+				"audio-features": {
+					"danceability": 0.408,
+					"energy": 0.728,
+					"key": 6,
+					"loudness": -5.186,
+					"mode": 1,
+					"speechiness": 0.0775,
+					"acousticness": 0.225,
+					"instrumentalness": 0,
+					"liveness": 0.141,
+					"valence": 0.501,
+					"tempo": 128.251,
+					"type": "audio_features",
+					"id": "5pTMXokyHE9OQyIDvi7ayz",
+					"uri": "spotify:track:5pTMXokyHE9OQyIDvi7ayz",
+					"track_href": "https://api.spotify.com/v1/tracks/5pTMXokyHE9OQyIDvi7ayz",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5pTMXokyHE9OQyIDvi7ayz",
+					"duration_ms": 180114,
+					"time_signature": 5
+				}
+			},
+			{
+				"name": "Grab The Moment",
+				"artists": [
+					{
+						"name": "JOWST",
+						"id": "2m0y0cDl1US03sYgxv9r6s"
+					}
+				],
+				"id": "7CiatbFJpSnXnbCiVaGlm0",
+				"audio-features": {
+					"danceability": 0.693,
+					"energy": 0.612,
+					"key": 4,
+					"loudness": -6.665,
+					"mode": 0,
+					"speechiness": 0.0941,
+					"acousticness": 0.117,
+					"instrumentalness": 0,
+					"liveness": 0.0905,
+					"valence": 0.293,
+					"tempo": 104.014,
+					"type": "audio_features",
+					"id": "7CiatbFJpSnXnbCiVaGlm0",
+					"uri": "spotify:track:7CiatbFJpSnXnbCiVaGlm0",
+					"track_href": "https://api.spotify.com/v1/tracks/7CiatbFJpSnXnbCiVaGlm0",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7CiatbFJpSnXnbCiVaGlm0",
+					"duration_ms": 175083,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Flashlight",
+				"artists": [
+					{
+						"name": "Kasia Mos",
+						"id": "6o7RJSQNRyx5ChgbgoTx22"
+					}
+				],
+				"id": "26D88ZaVe08FKhUrdttd3t",
+				"audio-features": {
+					"danceability": 0.368,
+					"energy": 0.666,
+					"key": 2,
+					"loudness": -7.346,
+					"mode": 1,
+					"speechiness": 0.0626,
+					"acousticness": 0.0414,
+					"instrumentalness": 0.00159,
+					"liveness": 0.338,
+					"valence": 0.216,
+					"tempo": 120.107,
+					"type": "audio_features",
+					"id": "26D88ZaVe08FKhUrdttd3t",
+					"uri": "spotify:track:26D88ZaVe08FKhUrdttd3t",
+					"track_href": "https://api.spotify.com/v1/tracks/26D88ZaVe08FKhUrdttd3t",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/26D88ZaVe08FKhUrdttd3t",
+					"duration_ms": 180550,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Amar pelos Dois",
+				"artists": [
+					{
+						"name": "Salvador Sobral",
+						"id": "0GfYO21pue5u0sVEYk9HZO"
+					}
+				],
+				"id": "3UjSOJ00E1eLMcayBm827Q",
+				"audio-features": {
+					"danceability": 0.21,
+					"energy": 0.0959,
+					"key": 5,
+					"loudness": -17.767,
+					"mode": 1,
+					"speechiness": 0.0347,
+					"acousticness": 0.854,
+					"instrumentalness": 0.00355,
+					"liveness": 0.261,
+					"valence": 0.164,
+					"tempo": 175.914,
+					"type": "audio_features",
+					"id": "3UjSOJ00E1eLMcayBm827Q",
+					"uri": "spotify:track:3UjSOJ00E1eLMcayBm827Q",
+					"track_href": "https://api.spotify.com/v1/tracks/3UjSOJ00E1eLMcayBm827Q",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/3UjSOJ00E1eLMcayBm827Q",
+					"duration_ms": 185080,
+					"time_signature": 3
+				}
+			},
+			{
+				"name": "Yodel it!",
+				"artists": [
+					{
+						"name": "Ilinca",
+						"id": "64PgkSM1uDD9BJEg0UkMMM"
+					},
+					{
+						"name": "Alex Florea",
+						"id": "7LCXh4MTN5bnfptYe17e66"
+					}
+				],
+				"id": "2GdIKPluDT6hT3xBxxKiUK",
+				"audio-features": {
+					"danceability": 0.521,
+					"energy": 0.918,
+					"key": 10,
+					"loudness": -4.517,
+					"mode": 1,
+					"speechiness": 0.123,
+					"acousticness": 0.00566,
+					"instrumentalness": 0,
+					"liveness": 0.11,
+					"valence": 0.766,
+					"tempo": 86.954,
+					"type": "audio_features",
+					"id": "2GdIKPluDT6hT3xBxxKiUK",
+					"uri": "spotify:track:2GdIKPluDT6hT3xBxxKiUK",
+					"track_href": "https://api.spotify.com/v1/tracks/2GdIKPluDT6hT3xBxxKiUK",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/2GdIKPluDT6hT3xBxxKiUK",
+					"duration_ms": 176261,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Spirit of the Night - ESC Version",
+				"artists": [
+					{
+						"name": "Valentina Monetta",
+						"id": "0DiFwPjlPCsOAqo7UluOzI"
+					},
+					{
+						"name": "Jimmie Wilson",
+						"id": "0v5pPUqFymEqbeuBxzx4Ky"
+					}
+				],
+				"id": "7EyugWJIIFXgQrmhP1p80J",
+				"audio-features": {
+					"danceability": 0.711,
+					"energy": 0.94,
+					"key": 7,
+					"loudness": -3.939,
+					"mode": 0,
+					"speechiness": 0.106,
+					"acousticness": 0.0841,
+					"instrumentalness": 0,
+					"liveness": 0.162,
+					"valence": 0.572,
+					"tempo": 140.066,
+					"type": "audio_features",
+					"id": "7EyugWJIIFXgQrmhP1p80J",
+					"uri": "spotify:track:7EyugWJIIFXgQrmhP1p80J",
+					"track_href": "https://api.spotify.com/v1/tracks/7EyugWJIIFXgQrmhP1p80J",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7EyugWJIIFXgQrmhP1p80J",
+					"duration_ms": 186321,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "In Too Deep",
+				"artists": [
+					{
+						"name": "Tijana Bogicevic",
+						"id": "03G8Pg0lRcOECBs5vkU5Us"
+					}
+				],
+				"id": "5uzjoEMnrrraUxiQPH3ELe",
+				"audio-features": {
+					"danceability": 0.522,
+					"energy": 0.661,
+					"key": 4,
+					"loudness": -6.53,
+					"mode": 0,
+					"speechiness": 0.0445,
+					"acousticness": 0.212,
+					"instrumentalness": 0,
+					"liveness": 0.0956,
+					"valence": 0.446,
+					"tempo": 135.934,
+					"type": "audio_features",
+					"id": "5uzjoEMnrrraUxiQPH3ELe",
+					"uri": "spotify:track:5uzjoEMnrrraUxiQPH3ELe",
+					"track_href": "https://api.spotify.com/v1/tracks/5uzjoEMnrrraUxiQPH3ELe",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/5uzjoEMnrrraUxiQPH3ELe",
+					"duration_ms": 187735,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "On My Way",
+				"artists": [
+					{
+						"name": "Omar Naber",
+						"id": "79sRi66xzFCmmNHZAT2sQr"
+					}
+				],
+				"id": "1yyzu2HEoj1HduUEHYi8Lu",
+				"audio-features": {
+					"danceability": 0.421,
+					"energy": 0.547,
+					"key": 2,
+					"loudness": -5.982,
+					"mode": 1,
+					"speechiness": 0.0406,
+					"acousticness": 0.3,
+					"instrumentalness": 0.0000148,
+					"liveness": 0.518,
+					"valence": 0.146,
+					"tempo": 134.901,
+					"type": "audio_features",
+					"id": "1yyzu2HEoj1HduUEHYi8Lu",
+					"uri": "spotify:track:1yyzu2HEoj1HduUEHYi8Lu",
+					"track_href": "https://api.spotify.com/v1/tracks/1yyzu2HEoj1HduUEHYi8Lu",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/1yyzu2HEoj1HduUEHYi8Lu",
+					"duration_ms": 180659,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "I Can´t Go On",
+				"artists": [
+					{
+						"name": "Robin Bengtsson",
+						"id": "1CQLPgGkfHrxNMqrXt5oWS"
+					}
+				],
+				"id": "57Y51hxqMn2j3dosW75R6n",
+				"audio-features": {
+					"danceability": 0.733,
+					"energy": 0.672,
+					"key": 4,
+					"loudness": -5.047,
+					"mode": 0,
+					"speechiness": 0.0427,
+					"acousticness": 0.0308,
+					"instrumentalness": 0,
+					"liveness": 0.163,
+					"valence": 0.469,
+					"tempo": 109.007,
+					"type": "audio_features",
+					"id": "57Y51hxqMn2j3dosW75R6n",
+					"uri": "spotify:track:57Y51hxqMn2j3dosW75R6n",
+					"track_href": "https://api.spotify.com/v1/tracks/57Y51hxqMn2j3dosW75R6n",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/57Y51hxqMn2j3dosW75R6n",
+					"duration_ms": 183991,
+					"time_signature": 4
+				}
+			},
+			{
+				"name": "Time",
+				"artists": [
+					{
+						"name": "O.Torvald",
+						"id": "3H9tbqoneuzYDgg2CAcUuy"
+					}
+				],
+				"id": "7xzXyOnErZDcgsGlchy4ec",
+				"audio-features": {
+					"danceability": 0.569,
+					"energy": 0.903,
+					"key": 1,
+					"loudness": -4.825,
+					"mode": 0,
+					"speechiness": 0.0786,
+					"acousticness": 0.00255,
+					"instrumentalness": 0.00128,
+					"liveness": 0.121,
+					"valence": 0.311,
+					"tempo": 101.952,
+					"type": "audio_features",
+					"id": "7xzXyOnErZDcgsGlchy4ec",
+					"uri": "spotify:track:7xzXyOnErZDcgsGlchy4ec",
+					"track_href": "https://api.spotify.com/v1/tracks/7xzXyOnErZDcgsGlchy4ec",
+					"analysis_url": "https://api.spotify.com/v1/audio-analysis/7xzXyOnErZDcgsGlchy4ec",
+					"duration_ms": 186471,
+					"time_signature": 4
+				}
+			}
+		]
+	}
+}

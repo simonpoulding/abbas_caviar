@@ -4,14 +4,15 @@ var fs = require('fs');
 
 var output = "";
 
-var accessToken = "BQAr0xHEJhSYi8Hmvww8-n7KSqA4BYxRaMWzyKaCT0LwGVuWwHEqitUc-4uUP0VA2dmNOFXqUuENNXMwMPzLvKykRzewpVGXN3DLqGjCiZEAZguB6A_ijX3VjgBLicQHA1RPSvVkXiQWWdVk5bqGUi9d0UHYCQ5uOleIB_DjXPSNsmZktPjyDu3DNIddyTMIr9O7Ce_s9Xn3R4uOV8gQh-6xCBMcR1i_e_9y9nY1T0_KWGPnMRBJ88pjTae95mkatfLbVknf4Y_gfS1MkkfMEPRAtwZT1RaUBYrt8w4xd3Kd1l6l0SCOHwJ-UwpBBf3IjGhb2BSFFOnx2Jvl4_QeGet-bg";
+var accessToken = "BQAyH0W9B-emBetQH8ALodXvx2IwwKxzxp04zhq3M_JKKYcTy6lJ2umlDKvTEqE0iZKJwTI0nL8elik8X4Qx-rZdgFn9T-QT5eE6co3ZI804fUpbELQgaONmVbnzzZOF3b6HVnv8Wu7TxP0gWRSXKNPopCUdH5JOMtITujwF-9JyXqdU79iHLEs3JUgqOuNebdqgzd2sJizSAUh14MUbCu9zhhmS_m6IfHZrgZRtkwX7d41i9XoCw1TV8npEroEGVJmVFfxCmamcZu28KvDVDtZwG3ID8WjEtwMArnpuzf8KkfO5DMg3SbFWzMENIcacmF1MT-Zc03WpQmENwKoRg9FzOg";
 
 var spotifyHost = 'api.spotify.com';
-var years = ['2016'];
+var years = ['2014','2015','2016'];
 var playlists = {
     '2017': 'users/eurovision14/playlists/0okqnc7i5nzYoj8MHMnRn1',
     '2016': 'users/eurovision14/playlists/0okqnc7i5nzYoj8MHMnRn1',
-    '2015': 'users/eurovision14/playlists/2t0JMyo7A448HCIW5keoTg'
+    '2015': 'users/eurovision14/playlists/2t0JMyo7A448HCIW5keoTg',
+    '2014': 'users/21ksf4arb7o2m45mlxzj4dula/playlists/7KA6Chz2MD5WJaPonm62nb'
 };
 var playlistsJSON = {};
 var playlistsProcessed = {};
@@ -106,29 +107,48 @@ function treatPlaylists() {
     return treatedPlaylists;
 }
 
-function getAudioFeatures() {
+function getAudioFeaturesRec(yearsIndex) {
     var requestsSent = 0;
     var requestsReceived = 0;
-
-    
-    var options = {
-        host: spotifyHost,
-        path: '/v1/' + playlists[year] + '/tracks',
-        headers: {
-            Authorization: 'Bearer ' + accessToken,
-            accept: 'application/json'
-        }
-    };
-    https.get(options, msg => {
-        if (msg.statusCode == 200) {
-            parseMsg(msg, body => {
-                console.log("got playlist json");
-                playlistsJSON[year] = body;
-            });
-        } else if (msg.statusCode == 401) {
-            console.log("api token expired");
+    playlistsProcessed[years[yearsIndex]]['tracks'].forEach(track => {
+        console.log(track.id);
+        var options = {
+            host: spotifyHost,
+            path: '/v1/audio-features/'+track.id,
+            headers: {
+                Authorization: 'Bearer ' + accessToken,
+                accept: 'application/json'
+            }
+        };
+        requestsSent++;
+        https.get(options, msg => {
+            if (msg.statusCode == 200) {
+                parseMsg(msg, body => {
+                    track['audio-features'] = body;
+                    requestsReceived++;
+                });
+            } else if (msg.statusCode == 401) {
+                console.log("api token expired");
+            }
+        });
+    });
+    waitForResponses(400, ()=>{
+        console.log("sent: " + requestsSent + ", recv: " + requestsReceived);
+        return requestsSent >= requestsReceived;
+    }, ()=>{
+        if (yearsIndex == years.length-1) {
+            console.log("got all audio feature responses");
+            writeOutput(JSON.stringify(playlistsProcessed, null, '\t'), 'playlistsTreatedWithAudioFeatures');
+        } else {
+            getAudioFeaturesRec(yearsIndex+1);
         }
     });
+    
+    
+}
+
+function getAudioFeatures() {
+    getAudioFeaturesRec(0);
 }
 
 //############ main()
@@ -141,5 +161,6 @@ waitForResponses(200, () => {
     writeOutput(JSON.stringify(playlistsJSON, null, '\t'), 'playlistsUntreated');
     playlistsProcessed = treatPlaylists();
     writeOutput(JSON.stringify(playlistsProcessed, null, '\t'), 'playlistsTreated');
+    getAudioFeatures();
 })
 years.forEach(year => { getPlaylistTracks(year); })
