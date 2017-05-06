@@ -1,0 +1,3 @@
+for C in global it se fr au be fi pt gr pl is cz cy lv at mt nl hu dk ie no ch bg lt ee de gb es; do echo $C; curl https://spotifycharts.com/regional/${C}/daily/2015-05-22/download > spotify_daily_${C}_2015-05-22.csv; done
+for C in global it se fr au be fi pt gr pl is cz cy lv at mt nl hu dk ie no ch bg lt ee de gb es; do echo $C; curl https://spotifycharts.com/regional/${C}/weekly/2016-05-06--2016-05-13/download > spotify_weekly_${C}_2016-05-13.csv; done
+for C in global it se fr au be fi pt gr pl is cz cy lv at mt nl hu dk ie no ch bg lt ee de gb es; do echo $C; curl https://spotifycharts.com/regional/${C}/weekly/2017-04-28--2017-05-05/download > spotify_weekly_${C}_2017-05-05.csv; done
