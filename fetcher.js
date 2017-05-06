@@ -141,7 +141,7 @@ function getAudioFeaturesRec(yearsIndex) {
             writeOutput(JSON.stringify(playlistsProcessed, null, '\t'), 'playlistsTreatedWithAudioFeatures');
         } else {
             console.log(requestsReceived + "requests received(" +years[yearsIndex]+ ")")
-            setTimeout(()=>{getAudioFeaturesRec(yearsIndex+1)},1000);
+            setTimeout(()=>{getAudioFeaturesRec(yearsIndex+1)},5000);
         }
     });
     
