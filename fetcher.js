@@ -4,13 +4,13 @@ var fs = require('fs');
 
 var output = "";
 
-var accessToken = "BQAyH0W9B-emBetQH8ALodXvx2IwwKxzxp04zhq3M_JKKYcTy6lJ2umlDKvTEqE0iZKJwTI0nL8elik8X4Qx-rZdgFn9T-QT5eE6co3ZI804fUpbELQgaONmVbnzzZOF3b6HVnv8Wu7TxP0gWRSXKNPopCUdH5JOMtITujwF-9JyXqdU79iHLEs3JUgqOuNebdqgzd2sJizSAUh14MUbCu9zhhmS_m6IfHZrgZRtkwX7d41i9XoCw1TV8npEroEGVJmVFfxCmamcZu28KvDVDtZwG3ID8WjEtwMArnpuzf8KkfO5DMg3SbFWzMENIcacmF1MT-Zc03WpQmENwKoRg9FzOg";
+var accessToken = "BQBPMjz2vpFVEBId9t4yTUK2oPYzw5eh-IKDGxtl1wZMI9x0MFH0q2UF2xIJiiTWv02YKmPvaa3E72nE4iJsn0eS_Fj55gvobT3P4tyKTC3jg7qFvt5UXCqvnCCrYu0hqazHzEjGW9cr6bHhQbMN-WP1_ZFol9DC0oL0NeYiLqTIpgCn2JguhR-kDLRxwetKxxJcLpMVm0I4K1M5Pfr8ux7CbSwTnzczA-cYjN3XNKaGGgcStkeGKqm0mHKCoCZFUdfUstsXi0vbhrxh7HNgGrRYbSUdqpNQXM48ZQfRXXaXClfixlbjfiiPmPGqdvsFpXxfCK8EpHVkaubIJb-qZaoekw";
 
 var spotifyHost = 'api.spotify.com';
 var years = ['2014','2015','2016'];
 var playlists = {
     '2017': 'users/eurovision14/playlists/0okqnc7i5nzYoj8MHMnRn1',
-    '2016': 'users/eurovision14/playlists/0okqnc7i5nzYoj8MHMnRn1',
+    '2016': 'users/eurovision14/playlists/5O57Wl25vUmqMUaO0Hgxbz',
     '2015': 'users/eurovision14/playlists/2t0JMyo7A448HCIW5keoTg',
     '2014': 'users/21ksf4arb7o2m45mlxzj4dula/playlists/7KA6Chz2MD5WJaPonm62nb'
 };
