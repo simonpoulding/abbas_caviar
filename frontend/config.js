@@ -10,26 +10,21 @@ function renderYearOptions() {
 }
 
 function renderSongTable() {
-    $('#score-entries').empty();
+    $('#score-table tbody').empty();
     var header ='<tr><th>Country</th><th>Placement</th><th>Song</th><th>Artist</th> <th>Predicted score</th><th>Actual score</th><th>Difference</th></tr>';
-    var row = $('<tr></tr>').appendTo('#score-table tbody');
-    var rowData = {
-        'country':'Serbia',
-        'placement':'2',
-        'song':'Fire, Desire',
-        'artist':'The Flobberworms',
-        'predicted':'149',
-        'actual':'138',
-        'difference':'+11',
-    };
-    row.append('<td>'+rowData.country+'</td>');
-    row.append('<td>'+rowData.placement+'</td>');
-    row.append('<td>'+rowData.song+'</td>');
-    row.append('<td>'+rowData.artist+'</td>');
-    row.append('<td>'+rowData.predicted+'</td>');
-    row.append('<td>'+rowData.actual+'</td>');
-    row.append('<td>'+rowData.difference+'</td>');
-    setTimeout($('#score-table-container').show(), 500);
+    $('#score-table tbody').append(header);
+    
+    
+    rowData.forEach(rowEntry => {
+        var row = $('<tr></tr>').appendTo('#score-table tbody');
+        row.append('<td>'+rowEntry.country+'</td>');
+        row.append('<td>'+rowEntry.placement+'</td>');
+        row.append('<td>'+rowEntry.song+'</td>');
+        row.append('<td>'+rowEntry.artist+'</td>');
+        row.append('<td>'+rowEntry.predicted+'</td>');
+        row.append('<td>'+rowEntry.actual+'</td>');
+        row.append('<td>'+rowEntry.difference+'</td>');
+    });
 }
 
 
@@ -41,6 +36,6 @@ $(document).ready(()=>{
         //TODO: do some ajax here that fetches table before rendering
         console.log("clicked!")
         renderSongTable();
-        
+        $('#score-table-container').slideDown();
     });
 })

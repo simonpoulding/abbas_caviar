@@ -11,3 +11,46 @@ var backendData = {
 
 
 }
+
+var rowData = [{
+        'country':'Serbia',
+        'placement':'2',
+        'song':'Fire, Desire',
+        'artist':'The Flobberworms',
+        'predicted':'149',
+        'actual':'138',
+        'difference':'+11',
+    },{
+        'country':'Serbia',
+        'placement':'2',
+        'song':'Fire, Desire',
+        'artist':'The Flobberworms',
+        'predicted':'149',
+        'actual':'138',
+        'difference':'+11',
+    },{
+        'country':'Serbia',
+        'placement':'2',
+        'song':'Fire, Desire',
+        'artist':'The Flobberworms',
+        'predicted':'149',
+        'actual':'138',
+        'difference':'+11',
+    },{
+        'country':'Serbia',
+        'placement':'2',
+        'song':'Fire, Desire',
+        'artist':'The Flobberworms',
+        'predicted':'149',
+        'actual':'138',
+        'difference':'+11',
+    },{
+        'country':'Serbia',
+        'placement':'2',
+        'song':'Fire, Desire',
+        'artist':'The Flobberworms',
+        'predicted':'149',
+        'actual':'138',
+        'difference':'+11',
+    },
+    ];
