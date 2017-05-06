@@ -7,7 +7,7 @@ var output = "";
 var accessToken = "BQBPMjz2vpFVEBId9t4yTUK2oPYzw5eh-IKDGxtl1wZMI9x0MFH0q2UF2xIJiiTWv02YKmPvaa3E72nE4iJsn0eS_Fj55gvobT3P4tyKTC3jg7qFvt5UXCqvnCCrYu0hqazHzEjGW9cr6bHhQbMN-WP1_ZFol9DC0oL0NeYiLqTIpgCn2JguhR-kDLRxwetKxxJcLpMVm0I4K1M5Pfr8ux7CbSwTnzczA-cYjN3XNKaGGgcStkeGKqm0mHKCoCZFUdfUstsXi0vbhrxh7HNgGrRYbSUdqpNQXM48ZQfRXXaXClfixlbjfiiPmPGqdvsFpXxfCK8EpHVkaubIJb-qZaoekw";
 
 var spotifyHost = 'api.spotify.com';
-var years = ['2014','2015','2016'];
+var years = ['2014','2015','2016','2017'];
 var playlists = {
     '2017': 'users/eurovision14/playlists/0okqnc7i5nzYoj8MHMnRn1',
     '2016': 'users/eurovision14/playlists/5O57Wl25vUmqMUaO0Hgxbz',
@@ -111,7 +111,6 @@ function getAudioFeaturesRec(yearsIndex) {
     var requestsSent = 0;
     var requestsReceived = 0;
     playlistsProcessed[years[yearsIndex]]['tracks'].forEach(track => {
-        console.log(track.id);
         var options = {
             host: spotifyHost,
             path: '/v1/audio-features/'+track.id,
@@ -132,15 +131,17 @@ function getAudioFeaturesRec(yearsIndex) {
             }
         });
     });
-    waitForResponses(400, ()=>{
-        console.log("sent: " + requestsSent + ", recv: " + requestsReceived);
-        return requestsSent >= requestsReceived;
+    console.log(requestsSent +" requests sent (" +years[yearsIndex]+ ")")
+    waitForResponses(100, ()=>{
+        //console.log("sent: " + requestsSent + ", recv: " + requestsReceived);
+        return requestsReceived >= requestsSent;
     }, ()=>{
         if (yearsIndex == years.length-1) {
             console.log("got all audio feature responses");
             writeOutput(JSON.stringify(playlistsProcessed, null, '\t'), 'playlistsTreatedWithAudioFeatures');
         } else {
-            getAudioFeaturesRec(yearsIndex+1);
+            console.log(requestsReceived + "requests received(" +years[yearsIndex]+ ")")
+            setTimeout(()=>{getAudioFeaturesRec(yearsIndex+1)},1000);
         }
     });
     
