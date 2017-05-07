@@ -1,6 +1,7 @@
 var yearUpper = 2017;
 var yearLower = 2014;
 var backendHost = 'http://10.128.173.98:4200/api/';
+var rowData;
 
 
 function renderYearOptions() {
@@ -11,34 +12,70 @@ function renderYearOptions() {
     $('select').material_select();
 }
 
-function renderSongTable() {
+function fetchSongTable() {
     $('#score-table-container').hide();
     $('#score-table tbody').empty();
-    var header ='<tr><th>Country</th><th>Placement</th><th>Song</th><th>Artist</th> <th>Predicted score</th><th>Actual score</th><th>Difference</th></tr>';
+    
     var requestedYear = $('#year-select').val();
     if (requestedYear != -1) {
         $.ajax({
             url: backendHost+requestedYear
         }).done(function(data){
-            $('#score-table tbody').append(header); 
-            var rowData = JSON.parse(data);
-            console.log(rowData);
-            rowData.forEach(rowEntry => {
-                var row = $('<tr></tr>').appendTo('#score-table tbody');
-                row.append('<td>'+rowEntry.country+'</td>');
-                row.append('<td>'+rowEntry.placement+'</td>');
-                row.append('<td>'+rowEntry.song+'</td>');
-                row.append('<td>'+rowEntry.artist+'</td>');
-                row.append('<td>'+Math.round(rowEntry.predicted)+'</td>');
-                row.append('<td>'+Math.round(rowEntry.actual)+'</td>');
-                row.append('<td>'+Math.round(rowEntry.difference)+'</td>');
-            });
-            $('#score-table-container').slideDown();
+            rowData = JSON.parse(data);
+            renderSongTable();
         });
     }
     
 }
 
+
+function renderSongTable() {
+    $('#score-table-container').hide();
+    $('#score-table tbody').empty();
+    var header ='<tr><th>Country</th><th>Placement</th><th>Song</th><th>Artist</th> <th>Predicted score</th><th>Actual score</th><th>Difference</th></tr>';
+    $('#score-table tbody').append(header); 
+    var sortParam = $('#sort-param').val();
+    rowData.forEach(rowEntry => {
+        rowEntry.predicted = Math.round(rowEntry.predicted);
+        rowEntry.placement = Math.round(rowEntry.placement);
+        rowEntry.actual = Math.round(rowEntry.actual);
+        rowEntry.difference = Math.round(rowEntry.difference);
+    });
+    console.log(rowData);
+    rowData.sort(function (a, b) {
+        console.log(a +" : " + b);
+        if (isNaN(+a[sortParam]) || isNaN(+b[sortParam])) { 
+            console.log("NaN!!!");
+            var valA = a[sortParam].toUpperCase(); 
+            var valB = b[sortParam].toUpperCase(); 
+            if (valA < valB) {
+                return -1;
+            }
+            if (valA > valB) {
+                return 1;
+            }
+            return 0;
+        } else {
+            return Math.abs(+a[sortParam]) - Math.abs(+b[sortParam]);
+        }
+    });
+
+    if ($('#sort-order').val() == "descending") {
+        rowData.reverse();
+    }
+
+    rowData.forEach(rowEntry => {
+        var row = $('<tr></tr>').appendTo('#score-table tbody');
+        row.append('<td>'+rowEntry.country+'</td>');
+        row.append('<td>'+rowEntry.placement+'</td>');
+        row.append('<td>'+rowEntry.song+'</td>');
+        row.append('<td>'+rowEntry.artist+'</td>');
+        row.append('<td>'+rowEntry.predicted+'</td>');
+        row.append('<td>'+rowEntry.actual+'</td>');
+        row.append('<td>'+rowEntry.difference+'</td>');
+    });
+    $('#score-table-container').slideDown();
+}
 
 
 $(document).ready(function(){
@@ -47,7 +84,7 @@ $(document).ready(function(){
     $('#go-button').click(function(event){
         //TODO: do some ajax here that fetches table before rendering
         console.log("clicked!")
-        renderSongTable();
+        fetchSongTable();
         
     });
 })
