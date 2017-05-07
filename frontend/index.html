@@ -26,9 +26,27 @@
                         <!-- options will show up here dynamically -->
                     </select>
                     <div id="go-button" class="btn waves-effect waves-light">Go</div>
+
+                    <p>Sort by: </p>
+                    <select name="" id="sort-param" class="white">
+                        <option value="placement">Placement</option>
+                        <option value="country">Country</option>
+                        <option value="song">Song</option>
+                        <option value="artist">Artist</option>
+                        <option value="predicted">Predicted Rank</option>
+                        <option value="actual">Actual Rank</option>
+                        <option value="difference">Difference</option>
+                    </select>
+                    <select name="" id="sort-order" class="white">
+                        <option value="ascending">Ascending</option>
+                        <option value="descending">Descending</option>
+                    </select>
                 </div>
+
+
+
                 <div id="score-table-container">
-                    <table id="score-table">
+                    <table id="score-table" class="striped">
                         <tbody>
                             <!--  -->
                         </tbody>
