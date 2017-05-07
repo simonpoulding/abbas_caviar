@@ -1,6 +1,6 @@
 var yearUpper = 2017;
 var yearLower = 2014;
-var backendHost = 'http://10.128.173.98:4200/api/';
+var backendHost = 'https://10.128.173.98:4200/api/';
 var rowData;
 
 
@@ -14,6 +14,8 @@ function renderYearOptions() {
 
 function fetchSongTable() {
     $('#score-table-container').hide();
+    var preloader = $('<div class="progress"><div class="indeterminate"></div></div>').appendTo('#score-table-container');
+    $('#score-table-container').slideDown();
     $('#score-table tbody').empty();
     
     var requestedYear = $('#year-select').val();
@@ -23,6 +25,7 @@ function fetchSongTable() {
         }).done(function(data){
             rowData = JSON.parse(data);
             renderSongTable();
+            preloader.remove();
         });
     }
     
