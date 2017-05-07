@@ -12,7 +12,7 @@ var backendData = {
 
 }
 
-var rowData = [{
+var rowDataDummy = [{
         'country':'Serbia',
         'placement':'2',
         'song':'Fire, Desire',
