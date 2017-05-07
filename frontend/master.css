@@ -24,7 +24,9 @@ body {
 #page-header {
   position: relative;
   height: 200px;
-  background-image: url(./img/AndresPutting.jpg); }
+  background-image: url(./img/AndresPutting.jpg);
+  background-position: 20% 51%;
+  background-color: #553f84; }
 
 #controls {
   padding: 10px;

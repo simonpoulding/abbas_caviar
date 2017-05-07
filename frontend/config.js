@@ -29,9 +29,9 @@ function renderSongTable() {
                 row.append('<td>'+rowEntry.placement+'</td>');
                 row.append('<td>'+rowEntry.song+'</td>');
                 row.append('<td>'+rowEntry.artist+'</td>');
-                row.append('<td>'+rowEntry.predicted+'</td>');
-                row.append('<td>'+rowEntry.actual+'</td>');
-                row.append('<td>'+rowEntry.difference+'</td>');
+                row.append('<td>'+Math.round(rowEntry.predicted)+'</td>');
+                row.append('<td>'+Math.round(rowEntry.actual)+'</td>');
+                row.append('<td>'+Math.round(rowEntry.difference)+'</td>');
             });
             $('#score-table-container').slideDown();
         });
