@@ -1,6 +1,23 @@
 const NORMALISED_COUNTRIES = [
 	"Netherlands" => ["The Netherlands",],
 	"United Kingdom" => ["The United Kingdom",],
+	"Switzerland" => [" Switzerland",],
+]
+
+const NORMALISED_ARTISTS = [
+	"Minus One" => ["Minus-One",],
+	"Nika Kocharov & Young Georgian Lolitaz" =>["Nika Kocharov And Young Georgian Lolitaz",],
+	"Sanja Vucic ZAA" => ["ZAA Sanja Vucic",],
+	"Justs Sirmais" => ["Justs"],
+	"Polina Gagarina" => ["Полина Гагарина",],
+	"Morland & Debrah Scarlett" => ["Morland",],
+	"Monika Linkyte & Vaidas Baumila" => ["Monika Linkyte",],
+	"Twin Twin" => ["TWIN TWIN",],
+	"Freaky Fortune" => ["Freaky Fortune feat. RiskyKidd",],
+	"Andras Kallay Saunders" => ["Andras Kallay-Saunders",],
+	"Firelight" => ["FireLight",],
+	"Donatan - Cleo" => ["Donatan & Cleo",],
+	"Paula Seling & Ovi" => ["Paula Seling",],
 ]
 
 const NORMALISED_CHARACTERS = [
@@ -18,14 +35,15 @@ const NORMALISED_CHARACTERS = [
 ]
 
 function normalise_country(country::AbstractString)
+	ncountry = ((length(country) > 1) && (Int(country[1]) == 160)) ? country[3:end] : country
 	for (norm, others) in NORMALISED_COUNTRIES
 		for other in others 
-			if country == other
+			if ncountry == other
 				return norm
 			end
 		end
 	end
-	country
+	ncountry
 end
 
 function normalise_characters(str::AbstractString)
@@ -38,5 +56,14 @@ function normalise_characters(str::AbstractString)
 	str
 end
 
-# join(a,b, on = [:id1, :id2], kind=:left)
-
+function normalise_artist(artist::AbstractString)
+	ncartist = normalise_characters(artist)
+	for (norm, others) in NORMALISED_ARTISTS
+		for other in others 
+			if ncartist == other
+				return norm
+			end
+		end
+	end
+	ncartist
+end
