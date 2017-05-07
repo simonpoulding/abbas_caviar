@@ -1,6 +1,5 @@
 * {
-  box-sizing: border-box;
-  font-family: "Roboto"; }
+  box-sizing: border-box; }
 
 body {
   margin: 0;
@@ -13,39 +12,37 @@ body {
   left: 50%;
   transform: translateX(-50%); }
 
-.grey {
-  background-color: #E1E2E1; }
-
-.pink {
-  background-color: #e1bee7; }
-  .pink.light {
-    background-color: #fff1ff; }
-  .pink.dark {
-    background-color: #af8eb5; }
+.header-title {
+  position: absolute;
+  bottom: 0;
+  left: 15px;
+  font-family: "Dosis", sans-serif;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 0 10px; }
 
 #page-header {
-  height: 200px; }
+  position: relative;
+  height: 200px;
+  background-image: url(./img/AndresPutting.jpg);
+  background-position: 20% 51%;
+  background-color: #553f84; }
 
 #controls {
-  padding: 10px; }
+  padding: 10px;
+  border-bottom: 1px solid #e1e1e1; }
   #controls p {
     display: inline-block; }
+  #controls .select-wrapper {
+    max-width: 200px;
+    width: auto;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px; }
+    #controls .select-wrapper .select-dropdown {
+      margin-bottom: 0; }
 
 #score-table-container {
   display: none; }
-
-#score-table {
-  border: solid 1px #000000;
-  padding: 0;
-  width: calc(100% - 30px);
-  margin: 5px 15px 5px 15px; }
-  #score-table tr:nth-child(odd) {
-    background-color: #f1f1f1; }
-  #score-table th {
-    text-align: center;
-    border-bottom: solid 1px #000000;
-    padding: 0; }
-  #score-table td {
-    text-align: center; }
 
 /*# sourceMappingURL=master.css.map */
