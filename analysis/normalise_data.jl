@@ -18,6 +18,15 @@ const NORMALISED_ARTISTS = [
 	"Firelight" => ["FireLight",],
 	"Donatan - Cleo" => ["Donatan & Cleo",],
 	"Paula Seling & Ovi" => ["Paula Seling",],
+	"Anja Nissen" => ["Anja",],
+	"Ilinca and Alex Florea" => ["Ilinca",],
+	"JOWST5" => ["JOWST",],
+	"Jana Burceska" => ["Jana Burcheska",],
+	"Papai Joci" => ["Joci Papai",],
+	"Koit Toome and Laura" => ["KOIT TOOME",],
+	"Naviband" => ["NAVIBAND",],
+	"OG3NE" => ["O'G3NE",],
+	"Valentina Monetta and Jimmie Wilson" => ["Valentina Monetta",],
 ]
 
 const NORMALISED_CHARACTERS = [
