@@ -8,6 +8,7 @@ function renderYearOptions() {
     for (var i=yearLower;i<=yearUpper;i++) {
         $('#year-select').append('<option value="'+i+'">'+i+'</option>');
     }
+    $('select').material_select();
 }
 
 function renderSongTable() {
@@ -35,19 +36,15 @@ function renderSongTable() {
             $('#score-table-container').slideDown();
         });
     }
-
-    
-    
-    
     
 }
 
 
 
-$(document).ready(()=>{
+$(document).ready(function(){
     renderYearOptions();
 
-    $('#go-button').click(event=>{
+    $('#go-button').click(function(event){
         //TODO: do some ajax here that fetches table before rendering
         console.log("clicked!")
         renderSongTable();

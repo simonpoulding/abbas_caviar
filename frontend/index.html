@@ -1,27 +1,31 @@
 <html>
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+
         <link rel="stylesheet" type="text/css" href="./master.css" >
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
 
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
 
         <script src="./config.js"></script>
-        <script src="./exampleData.js"></script>
+        <script src="./exampleData.js"></script>   
     </head>
 
     <body>
-        <div id="page-container" class="grey">
-            <div id="page-header" class="pink">
-
+        <div id="page-container" class="z-depth-1">
+            <div id="page-header" class="pink lighten-4">
+                <h1 class="header-title">ABBA's Caviar</h1>
             </div>
 
             <div id="page-contents">
-                <div id="controls">
+                <div id="controls" class="input-field">
                     <p>Pick a year: </p>
-                    <select name="" id="year-select">
+                    <select name="" id="year-select" class="white">
                         <!-- options will show up here dynamically -->
                     </select>
-                    <button id="go-button">Go</button>
+                    <div id="go-button" class="btn waves-effect waves-light">Go</div>
                 </div>
                 <div id="score-table-container">
                     <table id="score-table">
