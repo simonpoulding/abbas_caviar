@@ -1,6 +1,7 @@
 const NORMALISED_COUNTRIES = [
 	"Netherlands" => ["The Netherlands",],
 	"United Kingdom" => ["The United Kingdom",],
+	"Switzerland" => [" Switzerland",],
 ]
 
 const NORMALISED_ARTISTS = [
@@ -11,6 +12,12 @@ const NORMALISED_ARTISTS = [
 	"Polina Gagarina" => ["Полина Гагарина",],
 	"Morland & Debrah Scarlett" => ["Morland",],
 	"Monika Linkyte & Vaidas Baumila" => ["Monika Linkyte",],
+	"Twin Twin" => ["TWIN TWIN",],
+	"Freaky Fortune" => ["Freaky Fortune feat. RiskyKidd",],
+	"Andras Kallay Saunders" => ["Andras Kallay-Saunders",],
+	"Firelight" => ["FireLight",],
+	"Donatan - Cleo" => ["Donatan & Cleo",],
+	"Paula Seling & Ovi" => ["Paula Seling",],
 ]
 
 const NORMALISED_CHARACTERS = [
@@ -28,7 +35,7 @@ const NORMALISED_CHARACTERS = [
 ]
 
 function normalise_country(country::AbstractString)
-	ncountry = (length(country) > 1 && country[1] == Char(160)) ? country[3:end] : country
+	ncountry = ((length(country) > 1) && (Int(country[1]) == 160)) ? country[3:end] : country
 	for (norm, others) in NORMALISED_COUNTRIES
 		for other in others 
 			if ncountry == other
@@ -60,6 +67,3 @@ function normalise_artist(artist::AbstractString)
 	end
 	ncartist
 end
-
-# join(a,b, on = [:id1, :id2], kind=:left)
-
