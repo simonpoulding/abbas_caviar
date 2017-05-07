@@ -28,14 +28,14 @@ http = HttpHandler() do req::Request, res::Response
 		sourceyears = filter(y -> y != year, 2014:2016)
 		df = get_prediction(year, sourceyears)
 		
-		prediction = map(1:length(df)) do i
+		prediction = map(1:size(df,1)) do i
 			Dict("country"=>df[i,:country],
 				 "song"=>df[i,:title], 
 				 "artist"=>df[i,:artist], 
 				 "predicted"=>df[i,:predictedtelevote], 
 				 "placement"=>0, 
-				 "actual"=>0, 
-				 "difference"=>0,)
+				 "actual"=>df[i,:televote], 
+				 "difference"=>df[i,:predictedtelevote] - df[i,:televote],)
 		end
 		
 		Response(200, Dict{AbstractString,AbstractString}("Access-Control-Allow-Origin"=>"*"), string(JSON.json(prediction)))

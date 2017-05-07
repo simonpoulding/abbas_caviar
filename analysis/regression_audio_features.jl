@@ -30,9 +30,7 @@ function get_audio_entrant_data(year::Int)
 		
 end
 
-function get_audio_entrant_vote_data(year::Int)
-	
-	audio_entrant_df = get_audio_entrant_data(year)
+function get_vote_data(year::Int)
 	
 	# get aggregate vote with columns:
 	#	:country
@@ -41,7 +39,16 @@ function get_audio_entrant_vote_data(year::Int)
 	# clean data
 	votedf[:country] = map(c->normalise_country(c), votedf[:country])
 	
-	join(audio_entrant_df, votedf, on=:country, kind=:left) #, joindf, entrantdf, audiodf, votedf
+	votedf
+	
+end
+
+function get_audio_entrant_vote_data(year::Int)
+	
+	votedf = get_vote_data(year)
+	audioentrantdf = get_audio_entrant_data(year)
+	
+	join(audioentrantdf, votedf, on=:country, kind=:left) #, joindf, entrantdf, audiodf, votedf
 
 end
 
@@ -56,9 +63,18 @@ end
 function get_prediction(predictyear::Int, sourceyears::Vector{Int})
 
 	model = get_model(sourceyears)
-	predictdata =  get_audio_entrant_data(predictyear)
-	predictdata[:predictedtelevote] = predict(model, predictdata)
-	predictdata
+	
+	predictdf =  get_audio_entrant_data(predictyear)
+	predictdf[:predictedtelevote] = predict(model, predictdf)
+	
+	if predictyear < 2017
+		votedf = get_vote_data(predictyear)
+		predictdf = join(predictdf, votedf, on=:country, kind=:left)
+	else 
+		predictdf[:televote] = fill(0, size(predictdf,1))
+	end
 
+	predictdf
+	
 end
 
