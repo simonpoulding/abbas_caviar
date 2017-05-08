@@ -18,10 +18,10 @@ http = HttpHandler() do req::Request, res::Response
 				Dict("country"=>df[i,:country],
 					 "song"=>df[i,:title], 
 					 "artist"=>df[i,:artist], 
-					 "predicted"=>df[i,:predictedtelevote], 
+					 "predicted"=>df[i,:predictedrank], 
 					 "placement"=>0, 
-					 "actual"=>df[i,:televote], 
-					 "difference"=>df[i,:predictedtelevote] - df[i,:televote],)
+					 "actual"=>df[i,:rank], 
+					 "difference"=>df[i,:predictedrank] - df[i,:rank],)
 			end
 		
 			Response(200, Dict{AbstractString,AbstractString}("Access-Control-Allow-Origin"=>"*"), string(JSON.json(prediction)))
