@@ -1,6 +1,6 @@
 var yearUpper = 2017;
 var yearLower = 2014;
-var backendHost = 'https://10.128.173.98:4200/api/';
+var backendHost = 'http://localhost:4200/api/';
 var rowData;
 
 
@@ -17,7 +17,7 @@ function fetchSongTable() {
     var preloader = $('<div class="progress"><div class="indeterminate"></div></div>').appendTo('#score-table-container');
     $('#score-table-container').slideDown();
     $('#score-table tbody').empty();
-    
+
     var requestedYear = $('#year-select').val();
     if (requestedYear != -1) {
         $.ajax({
@@ -28,7 +28,7 @@ function fetchSongTable() {
             preloader.remove();
         });
     }
-    
+
 }
 
 
@@ -36,7 +36,7 @@ function renderSongTable() {
     $('#score-table-container').hide();
     $('#score-table tbody').empty();
     var header ='<tr><th>Country</th><th>Placement</th><th>Song</th><th>Artist</th> <th>Predicted score</th><th>Actual score</th><th>Difference</th></tr>';
-    $('#score-table tbody').append(header); 
+    $('#score-table tbody').append(header);
     var sortParam = $('#sort-param').val();
     rowData.forEach(rowEntry => {
         rowEntry.predicted = Math.round(rowEntry.predicted);
@@ -47,10 +47,10 @@ function renderSongTable() {
     console.log(rowData);
     rowData.sort(function (a, b) {
         console.log(a +" : " + b);
-        if (isNaN(+a[sortParam]) || isNaN(+b[sortParam])) { 
+        if (isNaN(+a[sortParam]) || isNaN(+b[sortParam])) {
             console.log("NaN!!!");
-            var valA = a[sortParam].toUpperCase(); 
-            var valB = b[sortParam].toUpperCase(); 
+            var valA = a[sortParam].toUpperCase();
+            var valB = b[sortParam].toUpperCase();
             if (valA < valB) {
                 return -1;
             }
@@ -88,6 +88,6 @@ $(document).ready(function(){
         //TODO: do some ajax here that fetches table before rendering
         console.log("clicked!")
         fetchSongTable();
-        
+
     });
 })
