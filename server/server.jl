@@ -23,7 +23,7 @@ function get_prediction_as_json(year::Int, votetype::Symbol=:combined, granulari
 		Dict("country"=>df[i,:country],
 			 "song"=>df[i,:title], 
 			 "artist"=>df[i,:artist], 
-			 "predicted"=>df[i,:predictedrank], 
+			 "predicted"=>(granularity == :votingcountry) ? df[i,:predictedvote] : df[i,:predictedrank], 
 			 "placement"=>i, 
 			 "actual"=>df[i,:rank], 
 			 "difference"=>df[i,:predictedrank] - df[i,:rank],)

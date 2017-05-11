@@ -10,6 +10,10 @@ function get_audio_entrant_data(year::Int)
 
 	audiodf = load_audio_features_data(year)
 	audiodf[:artist] = map(a->normalise_artist(a), audiodf[:artist])
+	audiodf[:instrumentalness] = map(i -> normalise_instrumentalness(i), audiodf[:instrumentalness])
+	# otherwise percountry models can become unstable
+	audiodf[:duration_ms] = map(d -> normalise_duration(d), audiodf[:duration_ms])
+	# since some (e.g. Italy 2017) are more than 3 minutes (since they are not the official ESC version)
 	
 	entrantdf = load_entrant_data(year)
 	entrantdf[:country] = map(c->normalise_country(c), entrantdf[:country])
@@ -43,7 +47,10 @@ countrycolname(country::AbstractString) = replace(country, " ", "_")
 function fit_model(df, modeltype=:audiofeatures, countries::Vector{AbstractString} = AbstractString[])
 	indepvars = AbstractString[]
 	if modeltype == :audiofeatures || modeltype == :all
-		append!(indepvars, ["tempo", "liveness", "mode", "energy", "speechiness", "danceability", "key", "loudness", "duration_ms", "acousticness", "instrumentalness", "valence", "time_signature"])
+		# append!(indepvars, ["tempo", "liveness", "mode", "energy", "speechiness", "danceability", "key", "loudness", "duration_ms", "acousticness", "instrumentalness", "valence", "time_signature"])
+		append!(indepvars, ["tempo", "liveness", "mode", "energy", "speechiness", "danceability", "key", "loudness", "acousticness", "valence", "time_signature"])
+		# duration_ms removed because it is of the spotify track, not the actual version played at Eurovision (which must be <= 180s) - this effects Italy in particular
+		# instrumentallness removed because the number of small values close to zero seems to make the model unstable (large -ve predictions in some cases)
 	end
 	if modeltype == :countrybias || modeltype == :all
 		append!(indepvars, map(c->countrycolname(c), countries))
@@ -97,13 +104,19 @@ function predict_from_model(audioentrantdf::DataFrame, sourceyears::Vector{Int},
 	model, countries = get_model(sourceyears, votetype, granularity, modeltype)
 	add_country_cols!(audioentrantdf, countries)
 
-	predictdf = DataFrame(predictedrank=fill(0, size(audioentrantdf,1)))
+	predictdf = DataFrame(predictedrank=fill(0, size(audioentrantdf,1)), predictedvote=fill(0, size(audioentrantdf,1)))
 	
 	if granularity == :votingcountry
 		for (vc, vcmodel) in model
 			# if vc in audioentrantdf[:country] || vc in ["Ukraine", "France", "Germany"] # check whether countries are actually voting in predict year (i.e. are also an entrant)
 			# but above doesn't work because in previous years because not all countries in the final
-				predictdf[:predictedrank] += predict(vcmodel, audioentrantdf)
+				prediction = predict(vcmodel, audioentrantdf)
+				predictdf[:predictedrank] += prediction
+				idx = sortperm(prediction)
+				predictdf[idx[1:10], :predictedvote] += [12,10,8,7,6,5,4,3,2,1]
+				# av = prediction[audioentrantdf[:country].=="Armenia"]
+				# println("$vc: $av")
+				# println(vcmodel)
 			# end
 		end
 	else
@@ -135,6 +148,7 @@ function get_prediction(predictyear::Int, sourceyears::Vector{Int}, votetype::Sy
 		predictdf = predict_from_model(audioentrantdf, sourceyears, :televote, granularity, modeltype)
 		jurydf = predict_from_model(audioentrantdf, sourceyears, :jury, granularity, modeltype)
 		predictdf[:predictedrank] += jurydf[:predictedrank]
+		predictdf[:predictedvote] += jurydf[:predictedvote]
 	else
 		predictdf = predict_from_model(audioentrantdf, sourceyears, votetype, granularity, modeltype)
 	end
@@ -148,7 +162,7 @@ function get_prediction(predictyear::Int, sourceyears::Vector{Int}, votetype::Sy
 		predictdf[:rank] = 0
 	end
 	
-	sort(predictdf, cols=:predictedrank)
+	granularity == :votingcountry ? sort(predictdf, cols=[:predictedvote], rev=true) : sort(predictdf, cols=[:predictedrank])
 	
 end
 
