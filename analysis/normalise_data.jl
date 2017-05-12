@@ -76,3 +76,11 @@ function normalise_artist(artist::AbstractString)
 	end
 	ncartist
 end
+
+function normalise_instrumentalness(value::Float64)
+	value < 0.005 ? 0.00 : value
+end
+
+function normalise_duration(value::Float64)
+	value > 180e3 ? 180e3 : value
+end

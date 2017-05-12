@@ -12,7 +12,8 @@ function load_entrant_data(year::Int)
 		   entrantdf = load_entrant_data(yeardict["finals"])
 		   if size(entrantdf,1) < 10
 			  # assume semi-finals have not happened yet
-			  entrantdf = vcat(entrantdf, load_entrant_data(yeardict["semiFinals1"]), load_entrant_data(yeardict["semiFinals2"])) 
+			  entrantdf = vcat(entrantdf, load_entrant_data(yeardict["semiFinals1"]), load_entrant_data(yeardict["semiFinals2"]))
+			  # entrantdf = load_entrant_data(yeardict["semiFinals1"])
 		   end
 		   return entrantdf
 	   end
